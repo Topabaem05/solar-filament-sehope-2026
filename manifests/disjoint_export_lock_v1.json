@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "locked_at_utc": "2026-10-09T03:12:53.133426+00:00",
+  "reason": "Kaggle submission 56987838 rejected overlapping instance masks; mandatory format correction, not leaderboard score tuning.",
+  "algorithm": "confidence_order_first_owner_v1",
+  "priority": "Original native CSV order within each image, which is descending fused confidence, then tile/query member key.",
+  "pixel_rule": "Each foreground pixel belongs to the first mask that contains it. Remove claimed pixels from subsequent masks; drop only empty residual masks. Preserve union exactly and introduce no pixels.",
+  "parameters": {},
+  "applies_identically_to": [
+    "development",
+    "holdout",
+    "submission"
+  ],
+  "checkpoint_sha256": "f99eb52031e3f8dc1011b64196b55b5887b9c85070e81695aee98553139fb6d4",
+  "base_selection_lock_sha256": "ddcaf54f195ceab1ed6e04feefd54e7d02558bab66a85509c7c4559631acf89e",
+  "holdout_already_seen_for_base_model": true,
+  "rule_selected_without_holdout_or_test_labels": true,
+  "no_hyperparameter_search": true,
+  "source_export_order_evidence": "src/filament/native_inference.py sorts kept candidates by (-score, members); src/filament/io/rle.py writes masks in that order."
+}
