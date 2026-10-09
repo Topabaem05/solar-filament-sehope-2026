@@ -1,0 +1,15 @@
+{
+  "status": "completed",
+  "source_csv_sha256": "d18a13ccb8dc645f0a3f3899833df919669c91e9297b40079c8ce436f05843bf",
+  "csv_sha256": "582b30aaa91422c77548523076aa4291d99be13e14c5d136ae76d4969e506138",
+  "original_images": 180,
+  "instances": 2508,
+  "no_overlapping_instance_pixels": true,
+  "foreground_union_preserved": true,
+  "gpu_used": false,
+  "training_performed": false,
+  "python": "3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]",
+  "numpy": "2.1.3",
+  "pycocotools": "2.0.11",
+  "seconds": 663.8258158629999
+}
