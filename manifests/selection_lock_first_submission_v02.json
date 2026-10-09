@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "selected_at_utc": "2026-10-09T02:23:10.571104+00:00",
+  "checkpoint_sha256": "f99eb52031e3f8dc1011b64196b55b5887b9c85070e81695aee98553139fb6d4",
+  "development_images": 201,
+  "fresh_session_replay_exact": true,
+  "development_pq": 0.042835982261634306,
+  "development_strict_pq": 0.034526875163052466,
+  "development_interval": {
+    "method": "2000 percentile bootstrap resamples of registered temporal groups",
+    "metric": "public-reference-arithmetic PQ",
+    "groups": 93,
+    "seed": 314159,
+    "level": 0.95,
+    "lower": 0.03562003713328784,
+    "upper": 0.0514992579556229,
+    "limitation": "Conditional on fixed model/split; does not include model-selection uncertainty or unmodeled observation correlation."
+  },
+  "development_report_sha256": "392b549f5b341b93fcac0341ed739436fd931ddfce385d90adf8c7a5c1bf66a2",
+  "development_csv_sha256": "ad20e7e59418a97193c4ddc49a3f084ae6f1d4a947dab1bf1ca6e211931481ac",
+  "holdout_not_used_for_selection": true,
+  "test_not_used_for_selection": true,
+  "inference_config_frozen": {
+    "tile_size": 512,
+    "stride": 384,
+    "object_threshold": 0.5,
+    "score_threshold": 0.5,
+    "mask_threshold": 0.5,
+    "nms_iou": 0.8,
+    "overlap_iou": 0.5,
+    "min_shared_pixels": 4
+  },
+  "qualification": "Valid weak first-entry baseline; no claim of completed v0.2 or competitive quality.",
+  "quality_review": {
+    "strict_recall": 0.1,
+    "strict_false_positives": 5815,
+    "strict_false_negatives": 2295,
+    "bbox_longer_than_tile_recall": 0.05263157894736842,
+    "zero_gt_overlap_false_predictions": 2494,
+    "all_stations_nonzero_pq": true
+  },
+  "decision": "Select pilot004 after the controlled 256/1024-update screen and whole-development verification. Keep thresholds unchanged. Proceed with one held-out assessment and first test submission as requested.",
+  "positive_verifier_case": "201 actual development originals; local and remote public/strict scores identical",
+  "negative_verifier_case": "isolated copy with modified CSV rejected without touching production artifacts"
+}
