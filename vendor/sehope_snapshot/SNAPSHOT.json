@@ -1,0 +1,35 @@
+{
+  "verified_date_kst": "2026-10-09",
+  "source_root_observed": "/Users/topamini/code/SE-HOPE",
+  "source_sha256": {
+    "sehope/__init__.py": "667d4a15b970b851e20d17510224670c14646cfb6d5a1e388ca6b9cc6da8bf41",
+    "sehope/backbone.py": "1d073b7028dc5a9615abedfb734e49a07b2623c9264e2a6723b1305574586c47",
+    "sehope/checkpoint.py": "068858fb8e85ab4ed358524c6f9f2eea3bafb39a344f5e03841a626a81222841",
+    "sehope/cli.py": "47d654688c7a52773cbe14585c5c0c8eb0992faf7baa6125d970114394c83917",
+    "sehope/data.py": "e909206d0836302448fa3b15b5de23590f9701126471688ccc8e402f4fe51dea",
+    "sehope/evaluate.py": "8068c7a30c2feaa5cb7fb016310a20be7a322006bc41c44649fff4667bfb38dd",
+    "sehope/memory.py": "cc058387f1099b70d0a663ec35aa7e3dd8620c8c44e261118f882f36b7822882",
+    "sehope/model.py": "91dd633fcb7b5af828de11a5581859a666665533f77c1ee2b424cfaf1ff0bf88",
+    "sehope/recurrence.py": "99c84c5e2ec53391017fb35969a3628a5bf1c23699849ed317dad5718c2191a3",
+    "sehope/resources.py": "4f610d6c2d80e3c265fe25ac9b0fe78d6acc73714b86638f0d77170c7dfe54ae",
+    "sehope/storage.py": "ef7f989c0bef3181d9415c457b1490c0d9a30daab73db69a3910ed24fb19a273",
+    "sehope/train.py": "45274bccc1b0d39429101c16e97e3c3b18b363274da7792b25596026eeee776d",
+    "sehope/upstream.py": "30e54c5d61d9f64eaf1854c556770dfb5fb4bddad431c7a6e99fa152f4cd1195",
+    "sehope/validation.py": "794a60224fe45a56fddb6ce1b7b8d67832ed1ae79e86af258aa1dff4fd0c3872",
+    "sehope/vendor/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "sehope/vendor/block.py": "31d827a57868ff6cff7198e6cd7c53725705222c8a25118ea38e6f6ab11ebf13",
+    "sehope/vendor/common.py": "14432559f6f061393aa44e8a3bcce8ee4801e81e9215ce5927d83610aff8d059",
+    "sehope/vendor/hierarchical.py": "fa453f03c3ac911d38c4ef9408fec39e45b61c1f117b8e3c6d966c957ed19da5",
+    "sehope/vendor/layers.py": "8d2059ac5263ef4f4da855b28ca35fab64cbcda89a7abda714bec3f9d78d5c0d",
+    "sehope/vendor/operator.py": "7b11a64225f7276f014e396711496e6599815dc13242970dd0a45c4f6ab9eed3",
+    "sehope/vendor/portable.py": "66a6a190a296e2f6c0e757d0f03fd35498e1fc115512817d66f9c0ced408dcf0"
+  },
+  "additional_file_sha256": {
+    "LICENSE.VisionHOPE": "35a6ebe5ac6f07311bc669e9b28a94029b66b709b3612e320aa8a8a048a287ba",
+    "THIRD_PARTY_NOTICES.md": "3005538252ef2a7c6d915ec1199f6a5e9d5fcf6f9c0f97f539e90287f69475d1",
+    "weights_manifest.json": "64c41e3a6741c3bd7f14a3b079370b9fd2c2f5f46ec2c75647e0879847082be3"
+  },
+  "weights_sha256": "ada1efa033bac3652ec956674e1337e19f4f3897b6284f25834d43fe850b0c39",
+  "weights_included": false,
+  "usage": "Frozen source snapshot. Supply explicitly verified weights; original weight binary is not copied. GPU execution and final public packaging remain pending."
+}

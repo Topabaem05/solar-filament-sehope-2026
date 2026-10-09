@@ -1,0 +1,6835 @@
+{
+  "schema_version": 2,
+  "seed": 42,
+  "annotation_sha256": "5da9e92b5a1a1947fd5d57adb6688269625c48ec1ef884daf2a01618c9ed54a1",
+  "max_gap_hours": 72,
+  "development_folds": 3,
+  "pixel_audit_sha256": "b3171c252d1dc3a009ebb9f160f11897dd8ecf7df0b1c9a8fc8add7ca02ac28b",
+  "near_duplicate_review": "closed_bounded_registered_review_v02",
+  "records": [
+    {
+      "file_name": "20110109104734Ch.jpeg",
+      "group_id": "6742a8b94eba345f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20110109104734Ch"
+      ]
+    },
+    {
+      "file_name": "20110114105034Ch.jpeg",
+      "group_id": "2525d69d6f0b2a9c",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010101-20110114105034Ch",
+        "010103-20110114105034Ch"
+      ]
+    },
+    {
+      "file_name": "20110119082634Lh.jpeg",
+      "group_id": "6506c16219fc04ec",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20110119082634Lh"
+      ]
+    },
+    {
+      "file_name": "20110123174914Mh.jpeg",
+      "group_id": "7ab435ff130a6b55",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20110123174914Mh"
+      ]
+    },
+    {
+      "file_name": "20110128174814Mh.jpeg",
+      "group_id": "397210b865147711",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20110128174814Mh",
+        "010402-20110128174814Mh",
+        "010403-20110128174814Mh"
+      ]
+    },
+    {
+      "file_name": "20110203082634Lh.jpeg",
+      "group_id": "893f087cd4f238ae",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20110203082634Lh",
+        "010102-20110203082634Lh",
+        "010103-20110203082634Lh"
+      ]
+    },
+    {
+      "file_name": "20110205082634Lh.jpeg",
+      "group_id": "893f087cd4f238ae",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020401-20110205082634Lh",
+        "020403-20110205082634Lh"
+      ]
+    },
+    {
+      "file_name": "20110211084114Th.jpeg",
+      "group_id": "d22d4423b9def5a4",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050302-20110211084114Th"
+      ]
+    },
+    {
+      "file_name": "20110213093414Th.jpeg",
+      "group_id": "d22d4423b9def5a4",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010301-20110213093414Th",
+        "010302-20110213093414Th"
+      ]
+    },
+    {
+      "file_name": "20110215083814Th.jpeg",
+      "group_id": "d22d4423b9def5a4",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20110215083814Th",
+        "010402-20110215083814Th",
+        "010403-20110215083814Th"
+      ]
+    },
+    {
+      "file_name": "20110220082634Lh.jpeg",
+      "group_id": "0d845e94b6eb5259",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20110220082634Lh",
+        "010102-20110220082634Lh"
+      ]
+    },
+    {
+      "file_name": "20110221173814Mh.jpeg",
+      "group_id": "0d845e94b6eb5259",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20110221173814Mh"
+      ]
+    },
+    {
+      "file_name": "20110301082654Uh.jpeg",
+      "group_id": "072e3de3254c4d5b",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20110301082654Uh",
+        "010402-20110301082654Uh",
+        "010403-20110301082654Uh"
+      ]
+    },
+    {
+      "file_name": "20110306082634Lh.jpeg",
+      "group_id": "1d0cf5b6e3ac0e32",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20110306082634Lh",
+        "010402-20110306082634Lh",
+        "010403-20110306082634Lh"
+      ]
+    },
+    {
+      "file_name": "20110312082634Lh.jpeg",
+      "group_id": "04313c57a53f1aa6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20110312082634Lh"
+      ]
+    },
+    {
+      "file_name": "20110313082654Uh.jpeg",
+      "group_id": "04313c57a53f1aa6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20110313082654Uh"
+      ]
+    },
+    {
+      "file_name": "20110317082654Uh.jpeg",
+      "group_id": "5e9e82cade9bbe89",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20110317082654Uh"
+      ]
+    },
+    {
+      "file_name": "20110322005814Mh.jpeg",
+      "group_id": "4e4ad9e1b54d439c",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20110322005814Mh",
+        "050102-20110322005814Mh",
+        "050103-20110322005814Mh"
+      ]
+    },
+    {
+      "file_name": "20110324082614Th.jpeg",
+      "group_id": "4e4ad9e1b54d439c",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020401-20110324082614Th",
+        "020403-20110324082614Th"
+      ]
+    },
+    {
+      "file_name": "20110325171014Mh.jpeg",
+      "group_id": "4e4ad9e1b54d439c",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030302-20110325171014Mh"
+      ]
+    },
+    {
+      "file_name": "20110326170914Mh.jpeg",
+      "group_id": "4e4ad9e1b54d439c",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060102-20110326170914Mh"
+      ]
+    },
+    {
+      "file_name": "20110327143554Bh.jpeg",
+      "group_id": "4e4ad9e1b54d439c",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20110327143554Bh",
+        "010102-20110327143554Bh"
+      ]
+    },
+    {
+      "file_name": "20110406082634Lh.jpeg",
+      "group_id": "33d647bbac8bdcbc",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "020101-20110406082634Lh"
+      ]
+    },
+    {
+      "file_name": "20110410141654Bh.jpeg",
+      "group_id": "412f8bbb89cb161c",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20110410141654Bh",
+        "010402-20110410141654Bh",
+        "010403-20110410141654Bh"
+      ]
+    },
+    {
+      "file_name": "20110421164914Mh.jpeg",
+      "group_id": "e840c151e705a84a",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030302-20110421164914Mh"
+      ]
+    },
+    {
+      "file_name": "20110425063154Uh.jpeg",
+      "group_id": "9ae156e62ee6a783",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050202-20110425063154Uh"
+      ]
+    },
+    {
+      "file_name": "20110429135554Bh.jpeg",
+      "group_id": "11f6f67077143f52",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20110429135554Bh",
+        "050102-20110429135554Bh",
+        "050103-20110429135554Bh"
+      ]
+    },
+    {
+      "file_name": "20110502063154Uh.jpeg",
+      "group_id": "11f6f67077143f52",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20110502063154Uh",
+        "050102-20110502063154Uh",
+        "050103-20110502063154Uh"
+      ]
+    },
+    {
+      "file_name": "20110509121334Ch.jpeg",
+      "group_id": "8d2a2f6abbb88322",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20110509121334Ch"
+      ]
+    },
+    {
+      "file_name": "20110510063134Lh.jpeg",
+      "group_id": "8d2a2f6abbb88322",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020401-20110510063134Lh",
+        "020403-20110510063134Lh"
+      ]
+    },
+    {
+      "file_name": "20110511063154Uh.jpeg",
+      "group_id": "8d2a2f6abbb88322",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20110511063154Uh"
+      ]
+    },
+    {
+      "file_name": "20110517164514Mh.jpeg",
+      "group_id": "7d455586a4383873",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20110517164514Mh",
+        "050102-20110517164514Mh",
+        "050103-20110517164514Mh"
+      ]
+    },
+    {
+      "file_name": "20110520063154Uh.jpeg",
+      "group_id": "7d455586a4383873",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020201-20110520063154Uh"
+      ]
+    },
+    {
+      "file_name": "20110521063134Lh.jpeg",
+      "group_id": "7d455586a4383873",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020101-20110521063134Lh"
+      ]
+    },
+    {
+      "file_name": "20110523063154Uh.jpeg",
+      "group_id": "7d455586a4383873",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20110523063154Uh"
+      ]
+    },
+    {
+      "file_name": "20110525063154Uh.jpeg",
+      "group_id": "7d455586a4383873",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20110525063154Uh"
+      ]
+    },
+    {
+      "file_name": "20110526122534Ch.jpeg",
+      "group_id": "7d455586a4383873",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020101-20110526122534Ch"
+      ]
+    },
+    {
+      "file_name": "20110530122834Ch.jpeg",
+      "group_id": "4f02810901ea34c7",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "030302-20110530122834Ch"
+      ]
+    },
+    {
+      "file_name": "20110601063134Lh.jpeg",
+      "group_id": "4f02810901ea34c7",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "030101-20110601063134Lh"
+      ]
+    },
+    {
+      "file_name": "20110603163414Mh.jpeg",
+      "group_id": "4f02810901ea34c7",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "030302-20110603163414Mh"
+      ]
+    },
+    {
+      "file_name": "20110615133454Bh.jpeg",
+      "group_id": "beb7ce1b70e644bd",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060403-20110615133454Bh"
+      ]
+    },
+    {
+      "file_name": "20110616133454Bh.jpeg",
+      "group_id": "beb7ce1b70e644bd",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020401-20110616133454Bh",
+        "020403-20110616133454Bh"
+      ]
+    },
+    {
+      "file_name": "20110617063134Lh.jpeg",
+      "group_id": "beb7ce1b70e644bd",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20110617063134Lh"
+      ]
+    },
+    {
+      "file_name": "20110619063134Lh.jpeg",
+      "group_id": "beb7ce1b70e644bd",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020101-20110619063134Lh"
+      ]
+    },
+    {
+      "file_name": "20110621063134Lh.jpeg",
+      "group_id": "beb7ce1b70e644bd",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060403-20110621063134Lh"
+      ]
+    },
+    {
+      "file_name": "20110623063134Lh.jpeg",
+      "group_id": "beb7ce1b70e644bd",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20110623063134Lh"
+      ]
+    },
+    {
+      "file_name": "20110625163814Mh.jpeg",
+      "group_id": "beb7ce1b70e644bd",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20110625163814Mh"
+      ]
+    },
+    {
+      "file_name": "20110707074514Th.jpeg",
+      "group_id": "fee45869989623c2",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020401-20110707074514Th",
+        "020403-20110707074514Th"
+      ]
+    },
+    {
+      "file_name": "20110711071214Th.jpeg",
+      "group_id": "2bbb9cb07167fbe2",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040301-20110711071214Th",
+        "040302-20110711071214Th"
+      ]
+    },
+    {
+      "file_name": "20110724164614Mh.jpeg",
+      "group_id": "9d6cd0f7d0ab725a",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010201-20110724164614Mh"
+      ]
+    },
+    {
+      "file_name": "20110727063234Lh.jpeg",
+      "group_id": "9d6cd0f7d0ab725a",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050101-20110727063234Lh",
+        "050102-20110727063234Lh",
+        "050103-20110727063234Lh"
+      ]
+    },
+    {
+      "file_name": "20110728084714Th.jpeg",
+      "group_id": "9d6cd0f7d0ab725a",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040401-20110728084714Th"
+      ]
+    },
+    {
+      "file_name": "20110803164914Mh.jpeg",
+      "group_id": "73e2ee39bb226a90",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20110803164914Mh",
+        "010402-20110803164914Mh",
+        "010403-20110803164914Mh"
+      ]
+    },
+    {
+      "file_name": "20110810063134Lh.jpeg",
+      "group_id": "de05da7161ed077d",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050303-20110810063134Lh"
+      ]
+    },
+    {
+      "file_name": "20110815140454Bh.jpeg",
+      "group_id": "7053d42c763d9901",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020401-20110815140454Bh",
+        "020403-20110815140454Bh"
+      ]
+    },
+    {
+      "file_name": "20110823120334Ch.jpeg",
+      "group_id": "66a8dad0163065d7",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010201-20110823120334Ch",
+        "010202-20110823120334Ch",
+        "010203-20110823120334Ch"
+      ]
+    },
+    {
+      "file_name": "20110824141054Bh.jpeg",
+      "group_id": "66a8dad0163065d7",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20110824141054Bh"
+      ]
+    },
+    {
+      "file_name": "20110826074214Th.jpeg",
+      "group_id": "66a8dad0163065d7",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20110826074214Th",
+        "050102-20110826074214Th",
+        "050103-20110826074214Th"
+      ]
+    },
+    {
+      "file_name": "20110902073614Th.jpeg",
+      "group_id": "396cfd2781a513b4",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "030101-20110902073614Th"
+      ]
+    },
+    {
+      "file_name": "20110914063134Lh.jpeg",
+      "group_id": "74a42e79ca96a0f2",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20110914063134Lh",
+        "010102-20110914063134Lh",
+        "010103-20110914063134Lh"
+      ]
+    },
+    {
+      "file_name": "20110918112834Ch.jpeg",
+      "group_id": "65b95a2f209395a8",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20110918112834Ch",
+        "010102-20110918112834Ch"
+      ]
+    },
+    {
+      "file_name": "20110923112234Ch.jpeg",
+      "group_id": "1bae66edcbcd7772",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20110923112234Ch"
+      ]
+    },
+    {
+      "file_name": "20110923165814Mh.jpeg",
+      "group_id": "1bae66edcbcd7772",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20110923165814Mh",
+        "010402-20110923165814Mh",
+        "010403-20110923165814Mh"
+      ]
+    },
+    {
+      "file_name": "20111009110234Ch.jpeg",
+      "group_id": "70f8ed44ec105ec8",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20111009110234Ch",
+        "010402-20111009110234Ch",
+        "010403-20111009110234Ch"
+      ]
+    },
+    {
+      "file_name": "20111011112054Uh.jpeg",
+      "group_id": "70f8ed44ec105ec8",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20111011112054Uh"
+      ]
+    },
+    {
+      "file_name": "20111018063134Lh.jpeg",
+      "group_id": "fca9ee060becb474",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020401-20111018063134Lh",
+        "020403-20111018063134Lh"
+      ]
+    },
+    {
+      "file_name": "20111019063154Uh.jpeg",
+      "group_id": "fca9ee060becb474",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040201-20111019063154Uh"
+      ]
+    },
+    {
+      "file_name": "20111025080614Th.jpeg",
+      "group_id": "9f34caed2a6ee20e",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20111025080614Th"
+      ]
+    },
+    {
+      "file_name": "20111027145954Bh.jpeg",
+      "group_id": "9f34caed2a6ee20e",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20111027145954Bh",
+        "010102-20111027145954Bh",
+        "010103-20111027145954Bh"
+      ]
+    },
+    {
+      "file_name": "20111029063154Uh.jpeg",
+      "group_id": "9f34caed2a6ee20e",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20111029063154Uh",
+        "010102-20111029063154Uh"
+      ]
+    },
+    {
+      "file_name": "20111107063154Uh.jpeg",
+      "group_id": "2767d93a174eac62",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20111107063154Uh"
+      ]
+    },
+    {
+      "file_name": "20111112193254Bh.jpeg",
+      "group_id": "eccbe801efc0bbbf",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "020401-20111112193254Bh",
+        "020403-20111112193254Bh"
+      ]
+    },
+    {
+      "file_name": "20111114082314Th.jpeg",
+      "group_id": "eccbe801efc0bbbf",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050101-20111114082314Th",
+        "050102-20111114082314Th",
+        "050103-20111114082314Th"
+      ]
+    },
+    {
+      "file_name": "20111115063134Lh.jpeg",
+      "group_id": "eccbe801efc0bbbf",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "030403-20111115063134Lh"
+      ]
+    },
+    {
+      "file_name": "20111116063134Lh.jpeg",
+      "group_id": "eccbe801efc0bbbf",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050101-20111116063134Lh",
+        "050102-20111116063134Lh",
+        "050103-20111116063134Lh"
+      ]
+    },
+    {
+      "file_name": "20111201063154Uh.jpeg",
+      "group_id": "6367b70d2bc83f26",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040301-20111201063154Uh"
+      ]
+    },
+    {
+      "file_name": "20111206102934Ch.jpeg",
+      "group_id": "8aaf0b47d06cf1f9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040301-20111206102934Ch"
+      ]
+    },
+    {
+      "file_name": "20111208063134Lh.jpeg",
+      "group_id": "8aaf0b47d06cf1f9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040301-20111208063134Lh"
+      ]
+    },
+    {
+      "file_name": "20111214063134Lh.jpeg",
+      "group_id": "5a89d4b3edfe61cd",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040102-20111214063134Lh"
+      ]
+    },
+    {
+      "file_name": "20111214132434Ch.jpeg",
+      "group_id": "5a89d4b3edfe61cd",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030401-20111214132434Ch",
+        "030403-20111214132434Ch"
+      ]
+    },
+    {
+      "file_name": "20111215063134Lh.jpeg",
+      "group_id": "5a89d4b3edfe61cd",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20111215063134Lh",
+        "010402-20111215063134Lh",
+        "010403-20111215063134Lh"
+      ]
+    },
+    {
+      "file_name": "20111218085014Th.jpeg",
+      "group_id": "df524e272f540e8d",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050101-20111218085014Th",
+        "050102-20111218085014Th",
+        "050103-20111218085014Th"
+      ]
+    },
+    {
+      "file_name": "20111222063154Uh.jpeg",
+      "group_id": "03b7c5869550f349",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20111222063154Uh",
+        "010402-20111222063154Uh",
+        "010403-20111222063154Uh"
+      ]
+    },
+    {
+      "file_name": "20111223085314Th.jpeg",
+      "group_id": "03b7c5869550f349",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010302-20111223085314Th"
+      ]
+    },
+    {
+      "file_name": "20111226155454Bh.jpeg",
+      "group_id": "5c5d1b7b54e8c6d9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060403-20111226155454Bh"
+      ]
+    },
+    {
+      "file_name": "20111229063154Uh.jpeg",
+      "group_id": "5c5d1b7b54e8c6d9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20111229063154Uh",
+        "010402-20111229063154Uh",
+        "010403-20111229063154Uh"
+      ]
+    },
+    {
+      "file_name": "20120103104134Ch.jpeg",
+      "group_id": "7dc10a88172daf29",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20120103104134Ch"
+      ]
+    },
+    {
+      "file_name": "20120104063134Lh.jpeg",
+      "group_id": "7dc10a88172daf29",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20120104063134Lh",
+        "010403-20120104063134Lh"
+      ]
+    },
+    {
+      "file_name": "20120110155754Bh.jpeg",
+      "group_id": "b920679569efa3b9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20120110155754Bh",
+        "050102-20120110155754Bh",
+        "050103-20120110155754Bh"
+      ]
+    },
+    {
+      "file_name": "20120113104834Ch.jpeg",
+      "group_id": "b920679569efa3b9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050302-20120113104834Ch",
+        "050303-20120113104834Ch"
+      ]
+    },
+    {
+      "file_name": "20120114063154Uh.jpeg",
+      "group_id": "b920679569efa3b9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060403-20120114063154Uh"
+      ]
+    },
+    {
+      "file_name": "20120116063254Uh.jpeg",
+      "group_id": "b920679569efa3b9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040102-20120116063254Uh"
+      ]
+    },
+    {
+      "file_name": "20120127085214Th.jpeg",
+      "group_id": "1916925c195b2931",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050202-20120127085214Th"
+      ]
+    },
+    {
+      "file_name": "20120131063154Uh.jpeg",
+      "group_id": "8e55bc191d55edee",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20120131063154Uh",
+        "010402-20120131063154Uh",
+        "010403-20120131063154Uh"
+      ]
+    },
+    {
+      "file_name": "20120205172414Mh.jpeg",
+      "group_id": "2fa68ecb511051d9",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20120205172414Mh",
+        "010402-20120205172414Mh",
+        "010403-20120205172414Mh"
+      ]
+    },
+    {
+      "file_name": "20120206063134Lh.jpeg",
+      "group_id": "2fa68ecb511051d9",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20120206063134Lh",
+        "010102-20120206063134Lh"
+      ]
+    },
+    {
+      "file_name": "20120213063134Lh.jpeg",
+      "group_id": "b2ef3acfb05bdd8f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050202-20120213063134Lh"
+      ]
+    },
+    {
+      "file_name": "20120215153654Bh.jpeg",
+      "group_id": "b2ef3acfb05bdd8f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20120215153654Bh",
+        "010102-20120215153654Bh"
+      ]
+    },
+    {
+      "file_name": "20120217063154Uh.jpeg",
+      "group_id": "b2ef3acfb05bdd8f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040301-20120217063154Uh"
+      ]
+    },
+    {
+      "file_name": "20120217181154Bh.jpeg",
+      "group_id": "b2ef3acfb05bdd8f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020401-20120217181154Bh",
+        "020403-20120217181154Bh"
+      ]
+    },
+    {
+      "file_name": "20120218173614Mh.jpeg",
+      "group_id": "b2ef3acfb05bdd8f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040301-20120218173614Mh"
+      ]
+    },
+    {
+      "file_name": "20120223063154Uh.jpeg",
+      "group_id": "bca6902aeb062fe0",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020401-20120223063154Uh",
+        "020403-20120223063154Uh"
+      ]
+    },
+    {
+      "file_name": "20120223152054Bh.jpeg",
+      "group_id": "bca6902aeb062fe0",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040301-20120223152054Bh"
+      ]
+    },
+    {
+      "file_name": "20120225172914Mh.jpeg",
+      "group_id": "bca6902aeb062fe0",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020401-20120225172914Mh",
+        "020403-20120225172914Mh"
+      ]
+    },
+    {
+      "file_name": "20120227161654Bh.jpeg",
+      "group_id": "bca6902aeb062fe0",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20120227161654Bh"
+      ]
+    },
+    {
+      "file_name": "20120306063154Uh.jpeg",
+      "group_id": "3dadf8b02b7a7d49",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20120306063154Uh"
+      ]
+    },
+    {
+      "file_name": "20120313063154Uh.jpeg",
+      "group_id": "75be47623aeeb82e",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20120313063154Uh"
+      ]
+    },
+    {
+      "file_name": "20120318063154Uh.jpeg",
+      "group_id": "7ab44f33030bea17",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020401-20120318063154Uh",
+        "020403-20120318063154Uh"
+      ]
+    },
+    {
+      "file_name": "20120323144054Bh.jpeg",
+      "group_id": "2523fa301e8c8587",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20120323144054Bh"
+      ]
+    },
+    {
+      "file_name": "20120328164614Mh.jpeg",
+      "group_id": "1b2aa76b8dba51c6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040301-20120328164614Mh"
+      ]
+    },
+    {
+      "file_name": "20120330063134Lh.jpeg",
+      "group_id": "1b2aa76b8dba51c6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20120330063134Lh",
+        "010102-20120330063134Lh"
+      ]
+    },
+    {
+      "file_name": "20120330063154Uh.jpeg",
+      "group_id": "1b2aa76b8dba51c6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020101-20120330063154Uh"
+      ]
+    },
+    {
+      "file_name": "20120331142954Bh.jpeg",
+      "group_id": "1b2aa76b8dba51c6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020401-20120331142954Bh",
+        "020403-20120331142954Bh"
+      ]
+    },
+    {
+      "file_name": "20120403083114Th.jpeg",
+      "group_id": "1b2aa76b8dba51c6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030101-20120403083114Th"
+      ]
+    },
+    {
+      "file_name": "20120403164114Mh.jpeg",
+      "group_id": "1b2aa76b8dba51c6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020401-20120403164114Mh",
+        "020403-20120403164114Mh"
+      ]
+    },
+    {
+      "file_name": "20120404063154Uh.jpeg",
+      "group_id": "1b2aa76b8dba51c6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20120404063154Uh",
+        "010402-20120404063154Uh",
+        "010403-20120404063154Uh"
+      ]
+    },
+    {
+      "file_name": "20120414115434Ch.jpeg",
+      "group_id": "05df0edec8464db4",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20120414115434Ch"
+      ]
+    },
+    {
+      "file_name": "20120414175914Mh.jpeg",
+      "group_id": "05df0edec8464db4",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040301-20120414175914Mh"
+      ]
+    },
+    {
+      "file_name": "20120421063154Uh.jpeg",
+      "group_id": "5a9b71e29da7df56",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20120421063154Uh"
+      ]
+    },
+    {
+      "file_name": "20120424072414Th.jpeg",
+      "group_id": "7eeb9f9760e151eb",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20120424072414Th",
+        "010402-20120424072414Th",
+        "010403-20120424072414Th"
+      ]
+    },
+    {
+      "file_name": "20120424120134Ch.jpeg",
+      "group_id": "7eeb9f9760e151eb",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030302-20120424120134Ch"
+      ]
+    },
+    {
+      "file_name": "20120427063154Uh.jpeg",
+      "group_id": "7eeb9f9760e151eb",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20120427063154Uh",
+        "010102-20120427063154Uh"
+      ]
+    },
+    {
+      "file_name": "20120427162614Mh.jpeg",
+      "group_id": "7eeb9f9760e151eb",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040102-20120427162614Mh"
+      ]
+    },
+    {
+      "file_name": "20120430063154Uh.jpeg",
+      "group_id": "7eeb9f9760e151eb",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040301-20120430063154Uh"
+      ]
+    },
+    {
+      "file_name": "20120509163414Mh.jpeg",
+      "group_id": "b185113519d62c7e",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20120509163414Mh"
+      ]
+    },
+    {
+      "file_name": "20120519070814Th.jpeg",
+      "group_id": "d71fafdd9bfa8758",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20120519070814Th",
+        "010402-20120519070814Th",
+        "010403-20120519070814Th"
+      ]
+    },
+    {
+      "file_name": "20120523163014Mh.jpeg",
+      "group_id": "da178e5e6ed3ccf9",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050202-20120523163014Mh"
+      ]
+    },
+    {
+      "file_name": "20120603123034Ch.jpeg",
+      "group_id": "9bd511fc7ed49ac0",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20120603123034Ch",
+        "010102-20120603123034Ch",
+        "010103-20120603123034Ch"
+      ]
+    },
+    {
+      "file_name": "20120610175114Mh.jpeg",
+      "group_id": "213b7c4bfda99898",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20120610175114Mh",
+        "010402-20120610175114Mh",
+        "010403-20120610175114Mh"
+      ]
+    },
+    {
+      "file_name": "20120627162114Mh.jpeg",
+      "group_id": "63907467c54cfaca",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20120627162114Mh"
+      ]
+    },
+    {
+      "file_name": "20120703070814Th.jpeg",
+      "group_id": "7223ed3b6f47a26f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20120703070814Th",
+        "010402-20120703070814Th",
+        "010403-20120703070814Th"
+      ]
+    },
+    {
+      "file_name": "20120712123634Ch.jpeg",
+      "group_id": "e9f017ef6c701f35",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030302-20120712123634Ch"
+      ]
+    },
+    {
+      "file_name": "20120715123434Ch.jpeg",
+      "group_id": "e9f017ef6c701f35",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050101-20120715123434Ch",
+        "050102-20120715123434Ch",
+        "050103-20120715123434Ch"
+      ]
+    },
+    {
+      "file_name": "20120720085114Th.jpeg",
+      "group_id": "001b4ba924c4e7be",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20120720085114Th",
+        "050102-20120720085114Th",
+        "050103-20120720085114Th"
+      ]
+    },
+    {
+      "file_name": "20120723095014Th.jpeg",
+      "group_id": "1eab43ee2b3df0c4",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20120723095014Th",
+        "010402-20120723095014Th",
+        "010403-20120723095014Th"
+      ]
+    },
+    {
+      "file_name": "20120725122934Ch.jpeg",
+      "group_id": "1eab43ee2b3df0c4",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040201-20120725122934Ch"
+      ]
+    },
+    {
+      "file_name": "20120726071914Th.jpeg",
+      "group_id": "1eab43ee2b3df0c4",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040102-20120726071914Th"
+      ]
+    },
+    {
+      "file_name": "20120729122634Ch.jpeg",
+      "group_id": "3692df4da76627ea",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010201-20120729122634Ch",
+        "010202-20120729122634Ch",
+        "010203-20120729122634Ch"
+      ]
+    },
+    {
+      "file_name": "20120730135454Bh.jpeg",
+      "group_id": "3692df4da76627ea",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050202-20120730135454Bh"
+      ]
+    },
+    {
+      "file_name": "20120802090314Th.jpeg",
+      "group_id": "3692df4da76627ea",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20120802090314Th",
+        "010402-20120802090314Th",
+        "010403-20120802090314Th"
+      ]
+    },
+    {
+      "file_name": "20120803102114Th.jpeg",
+      "group_id": "3692df4da76627ea",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010301-20120803102114Th",
+        "010302-20120803102114Th"
+      ]
+    },
+    {
+      "file_name": "20120803164614Mh.jpeg",
+      "group_id": "3692df4da76627ea",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040401-20120803164614Mh"
+      ]
+    },
+    {
+      "file_name": "20120810121634Ch.jpeg",
+      "group_id": "85abac9faeb621c7",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20120810121634Ch",
+        "050103-20120810121634Ch"
+      ]
+    },
+    {
+      "file_name": "20120811121434Ch.jpeg",
+      "group_id": "85abac9faeb621c7",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20120811121434Ch",
+        "050102-20120811121434Ch",
+        "050103-20120811121434Ch"
+      ]
+    },
+    {
+      "file_name": "20120813164714Mh.jpeg",
+      "group_id": "85abac9faeb621c7",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060403-20120813164714Mh"
+      ]
+    },
+    {
+      "file_name": "20120814140454Bh.jpeg",
+      "group_id": "85abac9faeb621c7",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060403-20120814140454Bh"
+      ]
+    },
+    {
+      "file_name": "20120814163114Mh.jpeg",
+      "group_id": "85abac9faeb621c7",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020401-20120814163114Mh",
+        "020403-20120814163114Mh"
+      ]
+    },
+    {
+      "file_name": "20120816072814Th.jpeg",
+      "group_id": "85abac9faeb621c7",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20120816072814Th",
+        "050102-20120816072814Th",
+        "050103-20120816072814Th"
+      ]
+    },
+    {
+      "file_name": "20120827085114Th.jpeg",
+      "group_id": "15df8ae121fc3c8b",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020101-20120827085114Th"
+      ]
+    },
+    {
+      "file_name": "20120829063134Lh.jpeg",
+      "group_id": "15df8ae121fc3c8b",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060403-20120829063134Lh"
+      ]
+    },
+    {
+      "file_name": "20120901114934Ch.jpeg",
+      "group_id": "318dda6446bc1c79",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040301-20120901114934Ch"
+      ]
+    },
+    {
+      "file_name": "20120907141954Bh.jpeg",
+      "group_id": "6fb1d1eda9f55ea8",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030403-20120907141954Bh"
+      ]
+    },
+    {
+      "file_name": "20120910074014Th.jpeg",
+      "group_id": "6fb1d1eda9f55ea8",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010201-20120910074014Th",
+        "010202-20120910074014Th",
+        "010203-20120910074014Th"
+      ]
+    },
+    {
+      "file_name": "20120913165314Mh.jpeg",
+      "group_id": "3966d7f106f93982",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20120913165314Mh",
+        "010402-20120913165314Mh",
+        "010403-20120913165314Mh"
+      ]
+    },
+    {
+      "file_name": "20120914063134Lh.jpeg",
+      "group_id": "3966d7f106f93982",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040301-20120914063134Lh",
+        "040302-20120914063134Lh"
+      ]
+    },
+    {
+      "file_name": "20120917142654Bh.jpeg",
+      "group_id": "07da860bebaf9b02",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010201-20120917142654Bh",
+        "010202-20120917142654Bh",
+        "010203-20120917142654Bh"
+      ]
+    },
+    {
+      "file_name": "20120928063134Lh.jpeg",
+      "group_id": "5e01417fb2ac7588",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030302-20120928063134Lh"
+      ]
+    },
+    {
+      "file_name": "20121006063534Lh.jpeg",
+      "group_id": "5c648da8de4d8075",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010201-20121006063534Lh",
+        "010202-20121006063534Lh"
+      ]
+    },
+    {
+      "file_name": "20121007131134Ch.jpeg",
+      "group_id": "5c648da8de4d8075",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20121007131134Ch",
+        "050103-20121007131134Ch"
+      ]
+    },
+    {
+      "file_name": "20121009165914Mh.jpeg",
+      "group_id": "5c648da8de4d8075",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010402-20121009165914Mh",
+        "010403-20121009165914Mh"
+      ]
+    },
+    {
+      "file_name": "20121018063134Lh.jpeg",
+      "group_id": "40e2682f3d7bc4f4",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20121018063134Lh"
+      ]
+    },
+    {
+      "file_name": "20121021145454Bh.jpeg",
+      "group_id": "9463f1d0bef6a46f",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040401-20121021145454Bh"
+      ]
+    },
+    {
+      "file_name": "20121022145554Bh.jpeg",
+      "group_id": "9463f1d0bef6a46f",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "020101-20121022145554Bh"
+      ]
+    },
+    {
+      "file_name": "20121024164714Mh.jpeg",
+      "group_id": "9463f1d0bef6a46f",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010202-20121024164714Mh"
+      ]
+    },
+    {
+      "file_name": "20121026063134Lh.jpeg",
+      "group_id": "9463f1d0bef6a46f",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "030302-20121026063134Lh"
+      ]
+    },
+    {
+      "file_name": "20121027063134Lh.jpeg",
+      "group_id": "9463f1d0bef6a46f",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010301-20121027063134Lh",
+        "010302-20121027063134Lh"
+      ]
+    },
+    {
+      "file_name": "20121027165114Mh.jpeg",
+      "group_id": "9463f1d0bef6a46f",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050101-20121027165114Mh",
+        "050102-20121027165114Mh",
+        "050103-20121027165114Mh"
+      ]
+    },
+    {
+      "file_name": "20121030150354Bh.jpeg",
+      "group_id": "9463f1d0bef6a46f",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "060403-20121030150354Bh"
+      ]
+    },
+    {
+      "file_name": "20121108155954Bh.jpeg",
+      "group_id": "f315b0ba047b6741",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030403-20121108155954Bh"
+      ]
+    },
+    {
+      "file_name": "20121109103634Ch.jpeg",
+      "group_id": "f315b0ba047b6741",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20121109103634Ch",
+        "010102-20121109103634Ch",
+        "010103-20121109103634Ch"
+      ]
+    },
+    {
+      "file_name": "20121113103634Ch.jpeg",
+      "group_id": "42ef24d585d5bf04",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20121113103634Ch",
+        "010402-20121113103634Ch",
+        "010403-20121113103634Ch"
+      ]
+    },
+    {
+      "file_name": "20121114172254Bh.jpeg",
+      "group_id": "42ef24d585d5bf04",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "020401-20121114172254Bh",
+        "020403-20121114172254Bh"
+      ]
+    },
+    {
+      "file_name": "20121118092514Th.jpeg",
+      "group_id": "90fee825b13c310f",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20121118092514Th"
+      ]
+    },
+    {
+      "file_name": "20121129063154Uh.jpeg",
+      "group_id": "d1fc0fd14ebe3b40",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20121129063154Uh",
+        "010402-20121129063154Uh",
+        "010403-20121129063154Uh"
+      ]
+    },
+    {
+      "file_name": "20121207103034Ch.jpeg",
+      "group_id": "50ee2e84ed4ac823",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040102-20121207103034Ch"
+      ]
+    },
+    {
+      "file_name": "20121208171514Mh.jpeg",
+      "group_id": "50ee2e84ed4ac823",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050303-20121208171514Mh"
+      ]
+    },
+    {
+      "file_name": "20121218063534Lh.jpeg",
+      "group_id": "62a387ab87f54043",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20121218063534Lh",
+        "010402-20121218063534Lh",
+        "010403-20121218063534Lh"
+      ]
+    },
+    {
+      "file_name": "20121219063154Uh.jpeg",
+      "group_id": "62a387ab87f54043",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050202-20121219063154Uh"
+      ]
+    },
+    {
+      "file_name": "20130107174854Bh.jpeg",
+      "group_id": "2a4e5f6ccbb6bc69",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050101-20130107174854Bh",
+        "050102-20130107174854Bh",
+        "050103-20130107174854Bh"
+      ]
+    },
+    {
+      "file_name": "20130109130334Ch.jpeg",
+      "group_id": "2a4e5f6ccbb6bc69",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040301-20130109130334Ch"
+      ]
+    },
+    {
+      "file_name": "20130110104734Ch.jpeg",
+      "group_id": "2a4e5f6ccbb6bc69",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020401-20130110104734Ch",
+        "020403-20130110104734Ch"
+      ]
+    },
+    {
+      "file_name": "20130111104734Ch.jpeg",
+      "group_id": "2a4e5f6ccbb6bc69",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20130111104734Ch"
+      ]
+    },
+    {
+      "file_name": "20130116172814Mh.jpeg",
+      "group_id": "aa66cada089e391b",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040201-20130116172814Mh"
+      ]
+    },
+    {
+      "file_name": "20130201084914Th.jpeg",
+      "group_id": "5c60792d3bb2a22c",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20130201084914Th"
+      ]
+    },
+    {
+      "file_name": "20130208063154Uh.jpeg",
+      "group_id": "1b5c21a62f65f4d8",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010203-20130208063154Uh"
+      ]
+    },
+    {
+      "file_name": "20130211063134Lh.jpeg",
+      "group_id": "1b5c21a62f65f4d8",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040301-20130211063134Lh"
+      ]
+    },
+    {
+      "file_name": "20130212153254Bh.jpeg",
+      "group_id": "1b5c21a62f65f4d8",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "060403-20130212153254Bh"
+      ]
+    },
+    {
+      "file_name": "20130214111534Ch.jpeg",
+      "group_id": "1b5c21a62f65f4d8",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040102-20130214111534Ch"
+      ]
+    },
+    {
+      "file_name": "20130218220314Mh.jpeg",
+      "group_id": "b83ab74d04cc7c59",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20130218220314Mh",
+        "050102-20130218220314Mh",
+        "050103-20130218220314Mh"
+      ]
+    },
+    {
+      "file_name": "20130219063134Lh.jpeg",
+      "group_id": "b83ab74d04cc7c59",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020401-20130219063134Lh",
+        "020403-20130219063134Lh"
+      ]
+    },
+    {
+      "file_name": "20130221063134Lh.jpeg",
+      "group_id": "b83ab74d04cc7c59",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20130221063134Lh",
+        "010402-20130221063134Lh",
+        "010403-20130221063134Lh"
+      ]
+    },
+    {
+      "file_name": "20130222082914Th.jpeg",
+      "group_id": "b83ab74d04cc7c59",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060102-20130222082914Th"
+      ]
+    },
+    {
+      "file_name": "20130225171214Mh.jpeg",
+      "group_id": "7d5834194fbcb1f8",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20130225171214Mh"
+      ]
+    },
+    {
+      "file_name": "20130303063134Lh.jpeg",
+      "group_id": "c3f26d2dade7fe97",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020101-20130303063134Lh"
+      ]
+    },
+    {
+      "file_name": "20130303063154Uh.jpeg",
+      "group_id": "c3f26d2dade7fe97",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20130303063154Uh",
+        "010402-20130303063154Uh",
+        "010403-20130303063154Uh"
+      ]
+    },
+    {
+      "file_name": "20130304170614Mh.jpeg",
+      "group_id": "c3f26d2dade7fe97",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040301-20130304170614Mh"
+      ]
+    },
+    {
+      "file_name": "20130305112734Ch.jpeg",
+      "group_id": "c3f26d2dade7fe97",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20130305112734Ch",
+        "050102-20130305112734Ch",
+        "050103-20130305112734Ch"
+      ]
+    },
+    {
+      "file_name": "20130306172214Mh.jpeg",
+      "group_id": "c3f26d2dade7fe97",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040201-20130306172214Mh"
+      ]
+    },
+    {
+      "file_name": "20130314165714Mh.jpeg",
+      "group_id": "0bf7617a412c3a72",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020401-20130314165714Mh",
+        "020403-20130314165714Mh"
+      ]
+    },
+    {
+      "file_name": "20130319144654Bh.jpeg",
+      "group_id": "759065e7d8448cc2",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20130319144654Bh",
+        "010402-20130319144654Bh",
+        "010403-20130319144654Bh"
+      ]
+    },
+    {
+      "file_name": "20130324015554Uh.jpeg",
+      "group_id": "d0be0d8ce514fbde",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20130324015554Uh"
+      ]
+    },
+    {
+      "file_name": "20130326063134Lh.jpeg",
+      "group_id": "d0be0d8ce514fbde",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20130326063134Lh"
+      ]
+    },
+    {
+      "file_name": "20130327175114Mh.jpeg",
+      "group_id": "d0be0d8ce514fbde",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20130327175114Mh"
+      ]
+    },
+    {
+      "file_name": "20130404063134Lh.jpeg",
+      "group_id": "6fa8961880510d83",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040201-20130404063134Lh"
+      ]
+    },
+    {
+      "file_name": "20130405114734Ch.jpeg",
+      "group_id": "6fa8961880510d83",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020101-20130405114734Ch"
+      ]
+    },
+    {
+      "file_name": "20130407063154Uh.jpeg",
+      "group_id": "6fa8961880510d83",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030401-20130407063154Uh",
+        "030403-20130407063154Uh"
+      ]
+    },
+    {
+      "file_name": "20130411115134Ch.jpeg",
+      "group_id": "f7f6f7b960b32af7",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20130411115134Ch"
+      ]
+    },
+    {
+      "file_name": "20130419070254Uh.jpeg",
+      "group_id": "2729fa8e7bf70230",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060102-20130419070254Uh"
+      ]
+    },
+    {
+      "file_name": "20130423072414Th.jpeg",
+      "group_id": "aa24643857def320",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060102-20130423072414Th"
+      ]
+    },
+    {
+      "file_name": "20130425135954Bh.jpeg",
+      "group_id": "aa24643857def320",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20130425135954Bh",
+        "010102-20130425135954Bh"
+      ]
+    },
+    {
+      "file_name": "20130429063154Uh.jpeg",
+      "group_id": "4d22d0faf778271f",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010402-20130429063154Uh",
+        "010403-20130429063154Uh"
+      ]
+    },
+    {
+      "file_name": "20130502063134Lh.jpeg",
+      "group_id": "4d22d0faf778271f",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040301-20130502063134Lh"
+      ]
+    },
+    {
+      "file_name": "20130510134654Bh.jpeg",
+      "group_id": "6138398695dca81c",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20130510134654Bh"
+      ]
+    },
+    {
+      "file_name": "20130517063134Lh.jpeg",
+      "group_id": "8876ca2d15f32f9c",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20130517063134Lh",
+        "010402-20130517063134Lh",
+        "010403-20130517063134Lh"
+      ]
+    },
+    {
+      "file_name": "20130601063154Uh.jpeg",
+      "group_id": "c46f363705bb2ac1",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20130601063154Uh"
+      ]
+    },
+    {
+      "file_name": "20130609123334Ch.jpeg",
+      "group_id": "f48589e0da9a84b4",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020101-20130609123334Ch"
+      ]
+    },
+    {
+      "file_name": "20130609173414Mh.jpeg",
+      "group_id": "f48589e0da9a84b4",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030302-20130609173414Mh"
+      ]
+    },
+    {
+      "file_name": "20130611063154Uh.jpeg",
+      "group_id": "f48589e0da9a84b4",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040201-20130611063154Uh"
+      ]
+    },
+    {
+      "file_name": "20130615002434Lh.jpeg",
+      "group_id": "fe9e947b47cd7197",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20130615002434Lh"
+      ]
+    },
+    {
+      "file_name": "20130616070414Th.jpeg",
+      "group_id": "fe9e947b47cd7197",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050202-20130616070414Th"
+      ]
+    },
+    {
+      "file_name": "20130628063134Lh.jpeg",
+      "group_id": "68aeea3eb2e6fd32",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20130628063134Lh"
+      ]
+    },
+    {
+      "file_name": "20130630070714Th.jpeg",
+      "group_id": "68aeea3eb2e6fd32",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20130630070714Th",
+        "050102-20130630070714Th",
+        "050103-20130630070714Th"
+      ]
+    },
+    {
+      "file_name": "20130705161714Mh.jpeg",
+      "group_id": "824d0b7850f7e234",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040201-20130705161714Mh"
+      ]
+    },
+    {
+      "file_name": "20130707134154Bh.jpeg",
+      "group_id": "824d0b7850f7e234",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "060403-20130707134154Bh"
+      ]
+    },
+    {
+      "file_name": "20130716162214Mh.jpeg",
+      "group_id": "2fc5de1289931187",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040201-20130716162214Mh"
+      ]
+    },
+    {
+      "file_name": "20130717123434Ch.jpeg",
+      "group_id": "2fc5de1289931187",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010201-20130717123434Ch"
+      ]
+    },
+    {
+      "file_name": "20130719140154Bh.jpeg",
+      "group_id": "2fc5de1289931187",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050101-20130719140154Bh",
+        "050102-20130719140154Bh",
+        "050103-20130719140154Bh"
+      ]
+    },
+    {
+      "file_name": "20130725122934Ch.jpeg",
+      "group_id": "bbb5707140fc4157",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20130725122934Ch"
+      ]
+    },
+    {
+      "file_name": "20130805135854Bh.jpeg",
+      "group_id": "e56194c1932c99ff",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20130805135854Bh"
+      ]
+    },
+    {
+      "file_name": "20130807073114Th.jpeg",
+      "group_id": "e56194c1932c99ff",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010202-20130807073114Th",
+        "010203-20130807073114Th"
+      ]
+    },
+    {
+      "file_name": "20130808140054Bh.jpeg",
+      "group_id": "e56194c1932c99ff",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050302-20130808140054Bh"
+      ]
+    },
+    {
+      "file_name": "20130809072814Th.jpeg",
+      "group_id": "e56194c1932c99ff",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010302-20130809072814Th"
+      ]
+    },
+    {
+      "file_name": "20130810121534Ch.jpeg",
+      "group_id": "e56194c1932c99ff",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010203-20130810121534Ch"
+      ]
+    },
+    {
+      "file_name": "20130811140254Bh.jpeg",
+      "group_id": "e56194c1932c99ff",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20130811140254Bh",
+        "010102-20130811140254Bh"
+      ]
+    },
+    {
+      "file_name": "20130813060834Lh.jpeg",
+      "group_id": "e56194c1932c99ff",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20130813060834Lh",
+        "010402-20130813060834Lh",
+        "010403-20130813060834Lh"
+      ]
+    },
+    {
+      "file_name": "20130824060834Lh.jpeg",
+      "group_id": "9ac3173e79c39a10",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20130824060834Lh"
+      ]
+    },
+    {
+      "file_name": "20130828141354Bh.jpeg",
+      "group_id": "9654a2acaccb9009",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040301-20130828141354Bh",
+        "040303-20130828141354Bh"
+      ]
+    },
+    {
+      "file_name": "20130901073614Th.jpeg",
+      "group_id": "93220b3f8a07995c",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20130901073614Th"
+      ]
+    },
+    {
+      "file_name": "20130903060834Lh.jpeg",
+      "group_id": "93220b3f8a07995c",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20130903060834Lh",
+        "010102-20130903060834Lh"
+      ]
+    },
+    {
+      "file_name": "20130903141654Bh.jpeg",
+      "group_id": "93220b3f8a07995c",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010202-20130903141654Bh",
+        "010203-20130903141654Bh"
+      ]
+    },
+    {
+      "file_name": "20130905073714Th.jpeg",
+      "group_id": "93220b3f8a07995c",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020101-20130905073714Th"
+      ]
+    },
+    {
+      "file_name": "20130913142354Bh.jpeg",
+      "group_id": "8e94a8680791fe07",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040301-20130913142354Bh"
+      ]
+    },
+    {
+      "file_name": "20130919060834Lh.jpeg",
+      "group_id": "216b8d4d7ad4c0ea",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010203-20130919060834Lh"
+      ]
+    },
+    {
+      "file_name": "20130921060834Lh.jpeg",
+      "group_id": "216b8d4d7ad4c0ea",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040102-20130921060834Lh"
+      ]
+    },
+    {
+      "file_name": "20130923060834Lh.jpeg",
+      "group_id": "216b8d4d7ad4c0ea",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "020401-20130923060834Lh",
+        "020403-20130923060834Lh"
+      ]
+    },
+    {
+      "file_name": "20130925143254Bh.jpeg",
+      "group_id": "216b8d4d7ad4c0ea",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20130925143254Bh",
+        "010402-20130925143254Bh",
+        "010403-20130925143254Bh"
+      ]
+    },
+    {
+      "file_name": "20130926060834Lh.jpeg",
+      "group_id": "216b8d4d7ad4c0ea",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "030101-20130926060834Lh"
+      ]
+    },
+    {
+      "file_name": "20131006075314Th.jpeg",
+      "group_id": "7e9580ff83976ca2",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20131006075314Th",
+        "010102-20131006075314Th"
+      ]
+    },
+    {
+      "file_name": "20131007075314Th.jpeg",
+      "group_id": "7e9580ff83976ca2",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20131007075314Th",
+        "010402-20131007075314Th",
+        "010403-20131007075314Th"
+      ]
+    },
+    {
+      "file_name": "20131011195414Mh.jpeg",
+      "group_id": "fb9ee70ea0696ff4",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20131011195414Mh",
+        "010402-20131011195414Mh",
+        "010403-20131011195414Mh"
+      ]
+    },
+    {
+      "file_name": "20131013185334Ch.jpeg",
+      "group_id": "fb9ee70ea0696ff4",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050202-20131013185334Ch"
+      ]
+    },
+    {
+      "file_name": "20131016185334Ch.jpeg",
+      "group_id": "fb9ee70ea0696ff4",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20131016185334Ch",
+        "010102-20131016185334Ch",
+        "010103-20131016185334Ch"
+      ]
+    },
+    {
+      "file_name": "20131017185334Ch.jpeg",
+      "group_id": "fb9ee70ea0696ff4",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20131017185334Ch",
+        "010102-20131017185334Ch"
+      ]
+    },
+    {
+      "file_name": "20131019080114Th.jpeg",
+      "group_id": "fb9ee70ea0696ff4",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20131019080114Th"
+      ]
+    },
+    {
+      "file_name": "20131020080114Th.jpeg",
+      "group_id": "fb9ee70ea0696ff4",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020101-20131020080114Th"
+      ]
+    },
+    {
+      "file_name": "20131025185414Mh.jpeg",
+      "group_id": "e166a53b3a5a54bc",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20131025185414Mh",
+        "010102-20131025185414Mh"
+      ]
+    },
+    {
+      "file_name": "20131027025654Uh.jpeg",
+      "group_id": "e166a53b3a5a54bc",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20131027025654Uh",
+        "010402-20131027025654Uh",
+        "010403-20131027025654Uh"
+      ]
+    },
+    {
+      "file_name": "20131028190734Ch.jpeg",
+      "group_id": "e166a53b3a5a54bc",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060403-20131028190734Ch"
+      ]
+    },
+    {
+      "file_name": "20131030185354Bh.jpeg",
+      "group_id": "e166a53b3a5a54bc",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030302-20131030185354Bh"
+      ]
+    },
+    {
+      "file_name": "20131031185614Mh.jpeg",
+      "group_id": "e166a53b3a5a54bc",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20131031185614Mh"
+      ]
+    },
+    {
+      "file_name": "20131101222734Lh.jpeg",
+      "group_id": "e166a53b3a5a54bc",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020401-20131101222734Lh",
+        "020403-20131101222734Lh"
+      ]
+    },
+    {
+      "file_name": "20131107043054Uh.jpeg",
+      "group_id": "d0f42eb15869e0cf",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20131107043054Uh",
+        "010402-20131107043054Uh",
+        "010403-20131107043054Uh"
+      ]
+    },
+    {
+      "file_name": "20131108045254Uh.jpeg",
+      "group_id": "d0f42eb15869e0cf",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20131108045254Uh"
+      ]
+    },
+    {
+      "file_name": "20131109190514Mh.jpeg",
+      "group_id": "d0f42eb15869e0cf",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030302-20131109190514Mh"
+      ]
+    },
+    {
+      "file_name": "20131109222434Lh.jpeg",
+      "group_id": "d0f42eb15869e0cf",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20131109222434Lh",
+        "010102-20131109222434Lh"
+      ]
+    },
+    {
+      "file_name": "20131113004514Mh.jpeg",
+      "group_id": "86f1908f7ff9d85e",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040301-20131113004514Mh"
+      ]
+    },
+    {
+      "file_name": "20131113185414Mh.jpeg",
+      "group_id": "86f1908f7ff9d85e",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030302-20131113185414Mh"
+      ]
+    },
+    {
+      "file_name": "20131115185414Mh.jpeg",
+      "group_id": "86f1908f7ff9d85e",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040401-20131115185414Mh"
+      ]
+    },
+    {
+      "file_name": "20131116185334Ch.jpeg",
+      "group_id": "86f1908f7ff9d85e",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020101-20131116185334Ch"
+      ]
+    },
+    {
+      "file_name": "20131125192154Bh.jpeg",
+      "group_id": "793724d370f1b1a5",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010302-20131125192154Bh"
+      ]
+    },
+    {
+      "file_name": "20131128192214Mh.jpeg",
+      "group_id": "8191cefebedaf8be",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20131128192214Mh",
+        "010102-20131128192214Mh"
+      ]
+    },
+    {
+      "file_name": "20131130192134Ch.jpeg",
+      "group_id": "8191cefebedaf8be",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040301-20131130192134Ch"
+      ]
+    },
+    {
+      "file_name": "20131201192134Ch.jpeg",
+      "group_id": "8191cefebedaf8be",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20131201192134Ch"
+      ]
+    },
+    {
+      "file_name": "20131204192154Bh.jpeg",
+      "group_id": "09653fe9039359d1",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020101-20131204192154Bh"
+      ]
+    },
+    {
+      "file_name": "20131206084114Th.jpeg",
+      "group_id": "09653fe9039359d1",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020401-20131206084114Th",
+        "020403-20131206084114Th"
+      ]
+    },
+    {
+      "file_name": "20131207084214Th.jpeg",
+      "group_id": "09653fe9039359d1",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060403-20131207084214Th"
+      ]
+    },
+    {
+      "file_name": "20131224192154Bh.jpeg",
+      "group_id": "14bede69613b5396",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010201-20131224192154Bh"
+      ]
+    },
+    {
+      "file_name": "20131225065154Uh.jpeg",
+      "group_id": "14bede69613b5396",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20131225065154Uh",
+        "050102-20131225065154Uh",
+        "050103-20131225065154Uh"
+      ]
+    },
+    {
+      "file_name": "20131229112414Th.jpeg",
+      "group_id": "bba9351c23408b99",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20131229112414Th",
+        "050102-20131229112414Th",
+        "050103-20131229112414Th"
+      ]
+    },
+    {
+      "file_name": "20140111224134Lh.jpeg",
+      "group_id": "9a66401de4b14c4d",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010202-20140111224134Lh"
+      ]
+    },
+    {
+      "file_name": "20140112180134Ch.jpeg",
+      "group_id": "9a66401de4b14c4d",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010102-20140112180134Ch",
+        "010103-20140112180134Ch"
+      ]
+    },
+    {
+      "file_name": "20140116180214Mh.jpeg",
+      "group_id": "63b4fffe8eb86c24",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20140116180214Mh"
+      ]
+    },
+    {
+      "file_name": "20140122180214Mh.jpeg",
+      "group_id": "8091330b08ee6628",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060102-20140122180214Mh"
+      ]
+    },
+    {
+      "file_name": "20140127180134Ch.jpeg",
+      "group_id": "5dc58e164470c224",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20140127180134Ch",
+        "010102-20140127180134Ch"
+      ]
+    },
+    {
+      "file_name": "20140128174554Bh.jpeg",
+      "group_id": "5dc58e164470c224",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050202-20140128174554Bh"
+      ]
+    },
+    {
+      "file_name": "20140205180154Bh.jpeg",
+      "group_id": "ae344265f87a8491",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20140205180154Bh",
+        "010402-20140205180154Bh",
+        "010403-20140205180154Bh"
+      ]
+    },
+    {
+      "file_name": "20140210180154Bh.jpeg",
+      "group_id": "3e84029048ba10fe",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050101-20140210180154Bh",
+        "050102-20140210180154Bh",
+        "050103-20140210180154Bh"
+      ]
+    },
+    {
+      "file_name": "20140212024554Uh.jpeg",
+      "group_id": "3e84029048ba10fe",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "020401-20140212024554Uh",
+        "020403-20140212024554Uh"
+      ]
+    },
+    {
+      "file_name": "20140213024554Uh.jpeg",
+      "group_id": "3e84029048ba10fe",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040301-20140213024554Uh"
+      ]
+    },
+    {
+      "file_name": "20140216230134Lh.jpeg",
+      "group_id": "2685c499b9295d4f",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20140216230134Lh",
+        "010402-20140216230134Lh",
+        "010403-20140216230134Lh"
+      ]
+    },
+    {
+      "file_name": "20140218230234Lh.jpeg",
+      "group_id": "2685c499b9295d4f",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040301-20140218230234Lh",
+        "040303-20140218230234Lh"
+      ]
+    },
+    {
+      "file_name": "20140225163314Th.jpeg",
+      "group_id": "b12abe9f3d1e93c5",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010201-20140225163314Th",
+        "010202-20140225163314Th"
+      ]
+    },
+    {
+      "file_name": "20140312025454Uh.jpeg",
+      "group_id": "32b00b143be63a4d",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040102-20140312025454Uh"
+      ]
+    },
+    {
+      "file_name": "20140312081114Th.jpeg",
+      "group_id": "32b00b143be63a4d",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010101-20140312081114Th",
+        "010102-20140312081114Th"
+      ]
+    },
+    {
+      "file_name": "20140321195814Mh.jpeg",
+      "group_id": "4e756530634e717a",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20140321195814Mh",
+        "010102-20140321195814Mh"
+      ]
+    },
+    {
+      "file_name": "20140323020654Uh.jpeg",
+      "group_id": "4e756530634e717a",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030101-20140323020654Uh"
+      ]
+    },
+    {
+      "file_name": "20140401014754Uh.jpeg",
+      "group_id": "565cce9d70fef437",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030401-20140401014754Uh",
+        "030403-20140401014754Uh"
+      ]
+    },
+    {
+      "file_name": "20140406195854Bh.jpeg",
+      "group_id": "e4d9428d4e14b0fb",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20140406195854Bh",
+        "010402-20140406195854Bh",
+        "010403-20140406195854Bh"
+      ]
+    },
+    {
+      "file_name": "20140409081614Th.jpeg",
+      "group_id": "e4d9428d4e14b0fb",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010203-20140409081614Th"
+      ]
+    },
+    {
+      "file_name": "20140411013854Uh.jpeg",
+      "group_id": "e4d9428d4e14b0fb",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "060403-20140411013854Uh"
+      ]
+    },
+    {
+      "file_name": "20140413195914Mh.jpeg",
+      "group_id": "e4d9428d4e14b0fb",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20140413195914Mh",
+        "010403-20140413195914Mh"
+      ]
+    },
+    {
+      "file_name": "20140414020354Uh.jpeg",
+      "group_id": "e4d9428d4e14b0fb",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010201-20140414020354Uh",
+        "010202-20140414020354Uh"
+      ]
+    },
+    {
+      "file_name": "20140414195834Ch.jpeg",
+      "group_id": "e4d9428d4e14b0fb",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050101-20140414195834Ch",
+        "050102-20140414195834Ch",
+        "050103-20140414195834Ch"
+      ]
+    },
+    {
+      "file_name": "20140420085614Th.jpeg",
+      "group_id": "879453ebcbc71138",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040201-20140420085614Th"
+      ]
+    },
+    {
+      "file_name": "20140428233234Lh.jpeg",
+      "group_id": "265d116d8eb7221e",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010202-20140428233234Lh"
+      ]
+    },
+    {
+      "file_name": "20140430071914Th.jpeg",
+      "group_id": "265d116d8eb7221e",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020101-20140430071914Th"
+      ]
+    },
+    {
+      "file_name": "20140501195814Mh.jpeg",
+      "group_id": "265d116d8eb7221e",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20140501195814Mh"
+      ]
+    },
+    {
+      "file_name": "20140508195834Ch.jpeg",
+      "group_id": "1fdf67780ec78770",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040301-20140508195834Ch",
+        "040302-20140508195834Ch"
+      ]
+    },
+    {
+      "file_name": "20140509071314Th.jpeg",
+      "group_id": "1fdf67780ec78770",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20140509071314Th",
+        "010402-20140509071314Th",
+        "010403-20140509071314Th"
+      ]
+    },
+    {
+      "file_name": "20140509195814Mh.jpeg",
+      "group_id": "1fdf67780ec78770",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20140509195814Mh",
+        "010102-20140509195814Mh",
+        "010103-20140509195814Mh"
+      ]
+    },
+    {
+      "file_name": "20140513012554Uh.jpeg",
+      "group_id": "f45bc40515e19fae",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20140513012554Uh",
+        "010102-20140513012554Uh"
+      ]
+    },
+    {
+      "file_name": "20140522070614Th.jpeg",
+      "group_id": "7adbc25d67b33ac0",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20140522070614Th"
+      ]
+    },
+    {
+      "file_name": "20140523195814Mh.jpeg",
+      "group_id": "7adbc25d67b33ac0",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20140523195814Mh"
+      ]
+    },
+    {
+      "file_name": "20140525070514Th.jpeg",
+      "group_id": "7adbc25d67b33ac0",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020101-20140525070514Th"
+      ]
+    },
+    {
+      "file_name": "20140531195834Ch.jpeg",
+      "group_id": "1fc2f5eceb8a34ad",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010202-20140531195834Ch",
+        "010203-20140531195834Ch"
+      ]
+    },
+    {
+      "file_name": "20140601195814Mh.jpeg",
+      "group_id": "1fc2f5eceb8a34ad",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040201-20140601195814Mh"
+      ]
+    },
+    {
+      "file_name": "20140603070414Th.jpeg",
+      "group_id": "1fc2f5eceb8a34ad",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20140603070414Th"
+      ]
+    },
+    {
+      "file_name": "20140604195854Bh.jpeg",
+      "group_id": "1fc2f5eceb8a34ad",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20140604195854Bh",
+        "010102-20140604195854Bh",
+        "010103-20140604195854Bh"
+      ]
+    },
+    {
+      "file_name": "20140605195854Bh.jpeg",
+      "group_id": "1fc2f5eceb8a34ad",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010301-20140605195854Bh",
+        "010302-20140605195854Bh"
+      ]
+    },
+    {
+      "file_name": "20140607112354Uh.jpeg",
+      "group_id": "1fc2f5eceb8a34ad",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20140607112354Uh"
+      ]
+    },
+    {
+      "file_name": "20140607195854Bh.jpeg",
+      "group_id": "1fc2f5eceb8a34ad",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20140607195854Bh"
+      ]
+    },
+    {
+      "file_name": "20140609195854Bh.jpeg",
+      "group_id": "1fc2f5eceb8a34ad",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040301-20140609195854Bh"
+      ]
+    },
+    {
+      "file_name": "20140615195814Mh.jpeg",
+      "group_id": "865e407f796f9c75",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030302-20140615195814Mh"
+      ]
+    },
+    {
+      "file_name": "20140615195854Bh.jpeg",
+      "group_id": "865e407f796f9c75",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010202-20140615195854Bh"
+      ]
+    },
+    {
+      "file_name": "20140701195814Mh.jpeg",
+      "group_id": "7212e0938e92758b",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040301-20140701195814Mh"
+      ]
+    },
+    {
+      "file_name": "20140705035754Uh.jpeg",
+      "group_id": "0699b0e4fe49e9ec",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060403-20140705035754Uh"
+      ]
+    },
+    {
+      "file_name": "20140709195814Mh.jpeg",
+      "group_id": "25714b79d6f79692",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20140709195814Mh"
+      ]
+    },
+    {
+      "file_name": "20140710083214Th.jpeg",
+      "group_id": "25714b79d6f79692",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20140710083214Th",
+        "050102-20140710083214Th",
+        "050103-20140710083214Th"
+      ]
+    },
+    {
+      "file_name": "20140712195854Bh.jpeg",
+      "group_id": "25714b79d6f79692",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030302-20140712195854Bh"
+      ]
+    },
+    {
+      "file_name": "20140716195854Bh.jpeg",
+      "group_id": "c8ddd2891cc4ba37",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20140716195854Bh"
+      ]
+    },
+    {
+      "file_name": "20140719071414Th.jpeg",
+      "group_id": "c8ddd2891cc4ba37",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20140719071414Th"
+      ]
+    },
+    {
+      "file_name": "20140720195834Ch.jpeg",
+      "group_id": "c8ddd2891cc4ba37",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20140720195834Ch"
+      ]
+    },
+    {
+      "file_name": "20140723071614Th.jpeg",
+      "group_id": "c8ddd2891cc4ba37",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030403-20140723071614Th"
+      ]
+    },
+    {
+      "file_name": "20140725195814Mh.jpeg",
+      "group_id": "c8ddd2891cc4ba37",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030302-20140725195814Mh"
+      ]
+    },
+    {
+      "file_name": "20140726071814Th.jpeg",
+      "group_id": "c8ddd2891cc4ba37",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030302-20140726071814Th"
+      ]
+    },
+    {
+      "file_name": "20140802072114Th.jpeg",
+      "group_id": "fa7ab2fb21aa23b1",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040102-20140802072114Th"
+      ]
+    },
+    {
+      "file_name": "20140803234534Lh.jpeg",
+      "group_id": "fa7ab2fb21aa23b1",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050202-20140803234534Lh"
+      ]
+    },
+    {
+      "file_name": "20140806195834Ch.jpeg",
+      "group_id": "fa7ab2fb21aa23b1",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020401-20140806195834Ch",
+        "020403-20140806195834Ch"
+      ]
+    },
+    {
+      "file_name": "20140807195854Bh.jpeg",
+      "group_id": "fa7ab2fb21aa23b1",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040301-20140807195854Bh",
+        "040302-20140807195854Bh"
+      ]
+    },
+    {
+      "file_name": "20140813064254Uh.jpeg",
+      "group_id": "f1a6e160e89a0f2f",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20140813064254Uh",
+        "010102-20140813064254Uh"
+      ]
+    },
+    {
+      "file_name": "20140814195854Bh.jpeg",
+      "group_id": "f1a6e160e89a0f2f",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20140814195854Bh"
+      ]
+    },
+    {
+      "file_name": "20140816072814Th.jpeg",
+      "group_id": "f1a6e160e89a0f2f",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030101-20140816072814Th"
+      ]
+    },
+    {
+      "file_name": "20140817195834Ch.jpeg",
+      "group_id": "f1a6e160e89a0f2f",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040301-20140817195834Ch"
+      ]
+    },
+    {
+      "file_name": "20140818195814Mh.jpeg",
+      "group_id": "f1a6e160e89a0f2f",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060102-20140818195814Mh"
+      ]
+    },
+    {
+      "file_name": "20140821195834Ch.jpeg",
+      "group_id": "0675b03aa81cf35e",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040201-20140821195834Ch"
+      ]
+    },
+    {
+      "file_name": "20140903073614Th.jpeg",
+      "group_id": "394ef15567ad526c",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040201-20140903073614Th"
+      ]
+    },
+    {
+      "file_name": "20140904195814Mh.jpeg",
+      "group_id": "394ef15567ad526c",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040301-20140904195814Mh"
+      ]
+    },
+    {
+      "file_name": "20140908175354Bh.jpeg",
+      "group_id": "e498d77dd3baeb7d",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020101-20140908175354Bh"
+      ]
+    },
+    {
+      "file_name": "20140908231334Lh.jpeg",
+      "group_id": "e498d77dd3baeb7d",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050202-20140908231334Lh"
+      ]
+    },
+    {
+      "file_name": "20140918195854Bh.jpeg",
+      "group_id": "00fa38d1c7ca2949",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010202-20140918195854Bh"
+      ]
+    },
+    {
+      "file_name": "20140921195854Bh.jpeg",
+      "group_id": "00fa38d1c7ca2949",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030302-20140921195854Bh"
+      ]
+    },
+    {
+      "file_name": "20140922195854Bh.jpeg",
+      "group_id": "00fa38d1c7ca2949",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030401-20140922195854Bh"
+      ]
+    },
+    {
+      "file_name": "20140927014554Uh.jpeg",
+      "group_id": "da226cb0c908c1e2",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060403-20140927014554Uh"
+      ]
+    },
+    {
+      "file_name": "20141001195834Ch.jpeg",
+      "group_id": "05bdf425b8bfbcb7",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050303-20141001195834Ch"
+      ]
+    },
+    {
+      "file_name": "20141004075414Th.jpeg",
+      "group_id": "05bdf425b8bfbcb7",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010202-20141004075414Th",
+        "010203-20141004075414Th"
+      ]
+    },
+    {
+      "file_name": "20141006224634Lh.jpeg",
+      "group_id": "05bdf425b8bfbcb7",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20141006224634Lh",
+        "010402-20141006224634Lh",
+        "010403-20141006224634Lh"
+      ]
+    },
+    {
+      "file_name": "20141007224934Lh.jpeg",
+      "group_id": "05bdf425b8bfbcb7",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040102-20141007224934Lh"
+      ]
+    },
+    {
+      "file_name": "20141009023454Uh.jpeg",
+      "group_id": "05bdf425b8bfbcb7",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030302-20141009023454Uh"
+      ]
+    },
+    {
+      "file_name": "20141010195834Ch.jpeg",
+      "group_id": "05bdf425b8bfbcb7",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040401-20141010195834Ch"
+      ]
+    },
+    {
+      "file_name": "20141012015654Uh.jpeg",
+      "group_id": "05bdf425b8bfbcb7",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010201-20141012015654Uh",
+        "010202-20141012015654Uh",
+        "010203-20141012015654Uh"
+      ]
+    },
+    {
+      "file_name": "20141012195854Bh.jpeg",
+      "group_id": "05bdf425b8bfbcb7",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060403-20141012195854Bh"
+      ]
+    },
+    {
+      "file_name": "20141013195834Ch.jpeg",
+      "group_id": "05bdf425b8bfbcb7",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020401-20141013195834Ch",
+        "020403-20141013195834Ch"
+      ]
+    },
+    {
+      "file_name": "20141013195854Bh.jpeg",
+      "group_id": "05bdf425b8bfbcb7",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20141013195854Bh"
+      ]
+    },
+    {
+      "file_name": "20141016022554Uh.jpeg",
+      "group_id": "05bdf425b8bfbcb7",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010201-20141016022554Uh",
+        "010202-20141016022554Uh",
+        "010203-20141016022554Uh"
+      ]
+    },
+    {
+      "file_name": "20141016195834Ch.jpeg",
+      "group_id": "05bdf425b8bfbcb7",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20141016195834Ch",
+        "010402-20141016195834Ch",
+        "010403-20141016195834Ch"
+      ]
+    },
+    {
+      "file_name": "20141022223334Lh.jpeg",
+      "group_id": "d2b0c831f7926e31",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010203-20141022223334Lh"
+      ]
+    },
+    {
+      "file_name": "20141024195834Ch.jpeg",
+      "group_id": "d2b0c831f7926e31",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040102-20141024195834Ch"
+      ]
+    },
+    {
+      "file_name": "20141025031154Uh.jpeg",
+      "group_id": "d2b0c831f7926e31",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030302-20141025031154Uh"
+      ]
+    },
+    {
+      "file_name": "20141026024454Uh.jpeg",
+      "group_id": "d2b0c831f7926e31",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060403-20141026024454Uh"
+      ]
+    },
+    {
+      "file_name": "20141027025054Uh.jpeg",
+      "group_id": "d2b0c831f7926e31",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20141027025054Uh",
+        "010102-20141027025054Uh"
+      ]
+    },
+    {
+      "file_name": "20141027224834Lh.jpeg",
+      "group_id": "d2b0c831f7926e31",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20141027224834Lh",
+        "010102-20141027224834Lh"
+      ]
+    },
+    {
+      "file_name": "20141105195814Mh.jpeg",
+      "group_id": "109ca45b3321a6e7",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020401-20141105195814Mh",
+        "020403-20141105195814Mh"
+      ]
+    },
+    {
+      "file_name": "20141106195854Bh.jpeg",
+      "group_id": "109ca45b3321a6e7",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20141106195854Bh",
+        "010402-20141106195854Bh",
+        "010403-20141106195854Bh"
+      ]
+    },
+    {
+      "file_name": "20141112195854Bh.jpeg",
+      "group_id": "2163549e5312b72d",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20141112195854Bh",
+        "010402-20141112195854Bh",
+        "010403-20141112195854Bh"
+      ]
+    },
+    {
+      "file_name": "20141116222234Lh.jpeg",
+      "group_id": "fdf5a3b1d15c1030",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20141116222234Lh"
+      ]
+    },
+    {
+      "file_name": "20141129222134Lh.jpeg",
+      "group_id": "56baecb0e220f9bc",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20141129222134Lh",
+        "010102-20141129222134Lh"
+      ]
+    },
+    {
+      "file_name": "20141210201814Mh.jpeg",
+      "group_id": "7a77630c547336d3",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20141210201814Mh",
+        "010102-20141210201814Mh"
+      ]
+    },
+    {
+      "file_name": "20141214201834Ch.jpeg",
+      "group_id": "2798dd595ff83871",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050101-20141214201834Ch",
+        "050102-20141214201834Ch",
+        "050103-20141214201834Ch"
+      ]
+    },
+    {
+      "file_name": "20141216222634Lh.jpeg",
+      "group_id": "2798dd595ff83871",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050101-20141216222634Lh",
+        "050102-20141216222634Lh",
+        "050103-20141216222634Lh"
+      ]
+    },
+    {
+      "file_name": "20141225024354Uh.jpeg",
+      "group_id": "d302eaea2e840b02",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020401-20141225024354Uh",
+        "020403-20141225024354Uh"
+      ]
+    },
+    {
+      "file_name": "20141225172214Mh.jpeg",
+      "group_id": "d302eaea2e840b02",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060403-20141225172214Mh"
+      ]
+    },
+    {
+      "file_name": "20150112081954Uh.jpeg",
+      "group_id": "7d283a5eda0f6b15",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20150112081954Uh",
+        "010102-20150112081954Uh",
+        "010103-20150112081954Uh"
+      ]
+    },
+    {
+      "file_name": "20150113105034Ch.jpeg",
+      "group_id": "7d283a5eda0f6b15",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20150113105034Ch",
+        "050102-20150113105034Ch",
+        "050103-20150113105034Ch"
+      ]
+    },
+    {
+      "file_name": "20150113155654Bh.jpeg",
+      "group_id": "7d283a5eda0f6b15",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20150113155654Bh"
+      ]
+    },
+    {
+      "file_name": "20150116082034Lh.jpeg",
+      "group_id": "7d283a5eda0f6b15",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20150116082034Lh",
+        "050102-20150116082034Lh",
+        "050103-20150116082034Lh"
+      ]
+    },
+    {
+      "file_name": "20150119082034Lh.jpeg",
+      "group_id": "7d283a5eda0f6b15",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20150119082034Lh"
+      ]
+    },
+    {
+      "file_name": "20150125172714Mh.jpeg",
+      "group_id": "6651f05ae6d41e72",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20150125172714Mh",
+        "010402-20150125172714Mh",
+        "010403-20150125172714Mh"
+      ]
+    },
+    {
+      "file_name": "20150130084914Th.jpeg",
+      "group_id": "32aac2496adac17d",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20150130084914Th"
+      ]
+    },
+    {
+      "file_name": "20150203084714Th.jpeg",
+      "group_id": "fd299b85834b3455",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030101-20150203084714Th"
+      ]
+    },
+    {
+      "file_name": "20150207084414Th.jpeg",
+      "group_id": "b4204a0ed1b71616",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060102-20150207084414Th"
+      ]
+    },
+    {
+      "file_name": "20150216171714Mh.jpeg",
+      "group_id": "4241bd94ebeb20d4",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20150216171714Mh",
+        "050102-20150216171714Mh",
+        "050103-20150216171714Mh"
+      ]
+    },
+    {
+      "file_name": "20150221155154Bh.jpeg",
+      "group_id": "68b01307f13d57c3",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20150221155154Bh",
+        "010402-20150221155154Bh",
+        "010403-20150221155154Bh"
+      ]
+    },
+    {
+      "file_name": "20150222090014Th.jpeg",
+      "group_id": "68b01307f13d57c3",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040301-20150222090014Th"
+      ]
+    },
+    {
+      "file_name": "20150222112034Ch.jpeg",
+      "group_id": "68b01307f13d57c3",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040301-20150222112034Ch"
+      ]
+    },
+    {
+      "file_name": "20150225171114Mh.jpeg",
+      "group_id": "a91793c49cb4cfd5",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040102-20150225171114Mh"
+      ]
+    },
+    {
+      "file_name": "20150228082414Th.jpeg",
+      "group_id": "a91793c49cb4cfd5",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20150228082414Th",
+        "010402-20150228082414Th",
+        "010403-20150228082414Th"
+      ]
+    },
+    {
+      "file_name": "20150302082034Lh.jpeg",
+      "group_id": "a91793c49cb4cfd5",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030302-20150302082034Lh"
+      ]
+    },
+    {
+      "file_name": "20150305081954Uh.jpeg",
+      "group_id": "a91793c49cb4cfd5",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050303-20150305081954Uh"
+      ]
+    },
+    {
+      "file_name": "20150308081954Uh.jpeg",
+      "group_id": "a91793c49cb4cfd5",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20150308081954Uh",
+        "010402-20150308081954Uh",
+        "010403-20150308081954Uh"
+      ]
+    },
+    {
+      "file_name": "20150314081954Uh.jpeg",
+      "group_id": "7c2ea1fc3665f0a6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20150314081954Uh"
+      ]
+    },
+    {
+      "file_name": "20150315082034Lh.jpeg",
+      "group_id": "7c2ea1fc3665f0a6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20150315082034Lh"
+      ]
+    },
+    {
+      "file_name": "20150323172814Mh.jpeg",
+      "group_id": "1c05ee8b9dfbf11d",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060102-20150323172814Mh"
+      ]
+    },
+    {
+      "file_name": "20150324145954Bh.jpeg",
+      "group_id": "1c05ee8b9dfbf11d",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040401-20150324145954Bh"
+      ]
+    },
+    {
+      "file_name": "20150325015554Uh.jpeg",
+      "group_id": "1c05ee8b9dfbf11d",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20150325015554Uh",
+        "010402-20150325015554Uh",
+        "010403-20150325015554Uh"
+      ]
+    },
+    {
+      "file_name": "20150327145114Th.jpeg",
+      "group_id": "1c05ee8b9dfbf11d",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050202-20150327145114Th"
+      ]
+    },
+    {
+      "file_name": "20150330081954Uh.jpeg",
+      "group_id": "1c05ee8b9dfbf11d",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020101-20150330081954Uh",
+        "020103-20150330081954Uh"
+      ]
+    },
+    {
+      "file_name": "20150409081954Uh.jpeg",
+      "group_id": "0c822b61b56055a5",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060403-20150409081954Uh"
+      ]
+    },
+    {
+      "file_name": "20150417082314Th.jpeg",
+      "group_id": "1173406cb5671131",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060403-20150417082314Th"
+      ]
+    },
+    {
+      "file_name": "20150421140454Bh.jpeg",
+      "group_id": "bc1a90708a0812b8",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050101-20150421140454Bh",
+        "050102-20150421140454Bh",
+        "050103-20150421140454Bh"
+      ]
+    },
+    {
+      "file_name": "20150423120034Ch.jpeg",
+      "group_id": "bc1a90708a0812b8",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20150423120034Ch",
+        "010402-20150423120034Ch",
+        "010403-20150423120034Ch"
+      ]
+    },
+    {
+      "file_name": "20150427162314Mh.jpeg",
+      "group_id": "1dec80a3691a9dfc",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20150427162314Mh",
+        "010402-20150427162314Mh",
+        "010403-20150427162314Mh"
+      ]
+    },
+    {
+      "file_name": "20150501120634Ch.jpeg",
+      "group_id": "7c6a8826a94f81c7",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030101-20150501120634Ch"
+      ]
+    },
+    {
+      "file_name": "20150518145654Bh.jpeg",
+      "group_id": "df75a16e7184e666",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20150518145654Bh",
+        "010102-20150518145654Bh"
+      ]
+    },
+    {
+      "file_name": "20150527082014Th.jpeg",
+      "group_id": "96696c917c7f210b",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20150527082014Th"
+      ]
+    },
+    {
+      "file_name": "20150527161214Mh.jpeg",
+      "group_id": "96696c917c7f210b",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20150527161214Mh",
+        "010102-20150527161214Mh"
+      ]
+    },
+    {
+      "file_name": "20150531082034Lh.jpeg",
+      "group_id": "abff094440fa0399",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20150531082034Lh",
+        "010102-20150531082034Lh"
+      ]
+    },
+    {
+      "file_name": "20150610082014Th.jpeg",
+      "group_id": "06d12f2562cf96fc",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020401-20150610082014Th",
+        "020403-20150610082014Th"
+      ]
+    },
+    {
+      "file_name": "20150614162514Mh.jpeg",
+      "group_id": "e93ce09b11b3cc01",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20150614162514Mh",
+        "010402-20150614162514Mh",
+        "010403-20150614162514Mh"
+      ]
+    },
+    {
+      "file_name": "20150615133554Bh.jpeg",
+      "group_id": "e93ce09b11b3cc01",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "030101-20150615133554Bh"
+      ]
+    },
+    {
+      "file_name": "20150617161314Mh.jpeg",
+      "group_id": "e93ce09b11b3cc01",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "020401-20150617161314Mh",
+        "020403-20150617161314Mh"
+      ]
+    },
+    {
+      "file_name": "20150620082014Th.jpeg",
+      "group_id": "e93ce09b11b3cc01",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050303-20150620082014Th"
+      ]
+    },
+    {
+      "file_name": "20150621161314Mh.jpeg",
+      "group_id": "e93ce09b11b3cc01",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050202-20150621161314Mh"
+      ]
+    },
+    {
+      "file_name": "20150625082014Th.jpeg",
+      "group_id": "c5991c1205a7cb0e",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030302-20150625082014Th"
+      ]
+    },
+    {
+      "file_name": "20150625082034Lh.jpeg",
+      "group_id": "c5991c1205a7cb0e",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20150625082034Lh",
+        "010402-20150625082034Lh",
+        "010403-20150625082034Lh"
+      ]
+    },
+    {
+      "file_name": "20150626161514Mh.jpeg",
+      "group_id": "c5991c1205a7cb0e",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20150626161514Mh",
+        "010102-20150626161514Mh"
+      ]
+    },
+    {
+      "file_name": "20150627133754Bh.jpeg",
+      "group_id": "c5991c1205a7cb0e",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040401-20150627133754Bh"
+      ]
+    },
+    {
+      "file_name": "20150629161614Mh.jpeg",
+      "group_id": "c5991c1205a7cb0e",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040401-20150629161614Mh"
+      ]
+    },
+    {
+      "file_name": "20150630083214Th.jpeg",
+      "group_id": "c5991c1205a7cb0e",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020101-20150630083214Th"
+      ]
+    },
+    {
+      "file_name": "20150706083014Th.jpeg",
+      "group_id": "3112c248081eaed1",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "020401-20150706083014Th",
+        "020403-20150706083014Th"
+      ]
+    },
+    {
+      "file_name": "20150716162114Mh.jpeg",
+      "group_id": "0854318e45a28dd6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010202-20150716162114Mh",
+        "010203-20150716162114Mh"
+      ]
+    },
+    {
+      "file_name": "20150718082014Th.jpeg",
+      "group_id": "0854318e45a28dd6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20150718082014Th"
+      ]
+    },
+    {
+      "file_name": "20150719182314Mh.jpeg",
+      "group_id": "0854318e45a28dd6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030101-20150719182314Mh"
+      ]
+    },
+    {
+      "file_name": "20150720082014Th.jpeg",
+      "group_id": "0854318e45a28dd6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020401-20150720082014Th",
+        "020403-20150720082014Th"
+      ]
+    },
+    {
+      "file_name": "20150727082014Th.jpeg",
+      "group_id": "ff3a05d344fb038e",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030401-20150727082014Th",
+        "030403-20150727082014Th"
+      ]
+    },
+    {
+      "file_name": "20150731082034Lh.jpeg",
+      "group_id": "4aeb8d00dfdda7d3",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20150731082034Lh",
+        "050102-20150731082034Lh",
+        "050103-20150731082034Lh"
+      ]
+    },
+    {
+      "file_name": "20150806082034Lh.jpeg",
+      "group_id": "77d99d31713555a2",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20150806082034Lh",
+        "010102-20150806082034Lh"
+      ]
+    },
+    {
+      "file_name": "20150819082014Th.jpeg",
+      "group_id": "a80b9f642b448fd6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010201-20150819082014Th",
+        "010202-20150819082014Th",
+        "010203-20150819082014Th"
+      ]
+    },
+    {
+      "file_name": "20150820152254Bh.jpeg",
+      "group_id": "a80b9f642b448fd6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020101-20150820152254Bh"
+      ]
+    },
+    {
+      "file_name": "20150825082034Lh.jpeg",
+      "group_id": "9d64b7313e6f97bc",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20150825082034Lh",
+        "010402-20150825082034Lh",
+        "010403-20150825082034Lh"
+      ]
+    },
+    {
+      "file_name": "20150830084134Lh.jpeg",
+      "group_id": "f212ffd9cfb5311f",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20150830084134Lh"
+      ]
+    },
+    {
+      "file_name": "20150913082014Th.jpeg",
+      "group_id": "a873872b0213671f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050202-20150913082014Th"
+      ]
+    },
+    {
+      "file_name": "20150916055454Uh.jpeg",
+      "group_id": "a873872b0213671f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20150916055454Uh"
+      ]
+    },
+    {
+      "file_name": "20150919165814Mh.jpeg",
+      "group_id": "0df7f11018f4e813",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "030101-20150919165814Mh"
+      ]
+    },
+    {
+      "file_name": "20150926111934Ch.jpeg",
+      "group_id": "45b8eca51059289f",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050202-20150926111934Ch"
+      ]
+    },
+    {
+      "file_name": "20150927111834Ch.jpeg",
+      "group_id": "45b8eca51059289f",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010101-20150927111834Ch",
+        "010102-20150927111834Ch",
+        "010103-20150927111834Ch"
+      ]
+    },
+    {
+      "file_name": "20151011144554Bh.jpeg",
+      "group_id": "fe822c30fb8560f5",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030302-20151011144554Bh"
+      ]
+    },
+    {
+      "file_name": "20151013144654Bh.jpeg",
+      "group_id": "fe822c30fb8560f5",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20151013144654Bh"
+      ]
+    },
+    {
+      "file_name": "20151019223534Lh.jpeg",
+      "group_id": "4970f5e7bf6e6602",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060102-20151019223534Lh"
+      ]
+    },
+    {
+      "file_name": "20151105133734Ch.jpeg",
+      "group_id": "b8478cb193009cfd",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050303-20151105133734Ch"
+      ]
+    },
+    {
+      "file_name": "20151106171514Mh.jpeg",
+      "group_id": "b8478cb193009cfd",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020101-20151106171514Mh"
+      ]
+    },
+    {
+      "file_name": "20151107133734Ch.jpeg",
+      "group_id": "b8478cb193009cfd",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20151107133734Ch"
+      ]
+    },
+    {
+      "file_name": "20151116201114Mh.jpeg",
+      "group_id": "0c9a1a20c09e35e9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060403-20151116201114Mh"
+      ]
+    },
+    {
+      "file_name": "20151116224034Lh.jpeg",
+      "group_id": "0c9a1a20c09e35e9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050202-20151116224034Lh"
+      ]
+    },
+    {
+      "file_name": "20151117172314Mh.jpeg",
+      "group_id": "0c9a1a20c09e35e9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20151117172314Mh",
+        "010102-20151117172314Mh",
+        "010103-20151117172314Mh"
+      ]
+    },
+    {
+      "file_name": "20151118172314Mh.jpeg",
+      "group_id": "0c9a1a20c09e35e9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040102-20151118172314Mh"
+      ]
+    },
+    {
+      "file_name": "20151119133734Ch.jpeg",
+      "group_id": "0c9a1a20c09e35e9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010301-20151119133734Ch",
+        "010302-20151119133734Ch"
+      ]
+    },
+    {
+      "file_name": "20151122172614Mh.jpeg",
+      "group_id": "bbdd93df9fd4b947",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20151122172614Mh",
+        "010102-20151122172614Mh",
+        "010103-20151122172614Mh"
+      ]
+    },
+    {
+      "file_name": "20151128133714Th.jpeg",
+      "group_id": "fa8a02fd5a5e2dc1",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040401-20151128133714Th"
+      ]
+    },
+    {
+      "file_name": "20151128133734Ch.jpeg",
+      "group_id": "fa8a02fd5a5e2dc1",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040301-20151128133734Ch",
+        "040302-20151128133734Ch"
+      ]
+    },
+    {
+      "file_name": "20151128222134Lh.jpeg",
+      "group_id": "fa8a02fd5a5e2dc1",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "030302-20151128222134Lh"
+      ]
+    },
+    {
+      "file_name": "20151209201754Bh.jpeg",
+      "group_id": "2474e513c2ff7a50",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050303-20151209201754Bh"
+      ]
+    },
+    {
+      "file_name": "20151212171154Bh.jpeg",
+      "group_id": "2474e513c2ff7a50",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020101-20151212171154Bh"
+      ]
+    },
+    {
+      "file_name": "20151213023454Uh.jpeg",
+      "group_id": "2474e513c2ff7a50",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010302-20151213023454Uh"
+      ]
+    },
+    {
+      "file_name": "20151219133734Ch.jpeg",
+      "group_id": "bc89663927f5c133",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20151219133734Ch"
+      ]
+    },
+    {
+      "file_name": "20151224133734Ch.jpeg",
+      "group_id": "95f7bed81da3fafd",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030401-20151224133734Ch"
+      ]
+    },
+    {
+      "file_name": "20151226133734Ch.jpeg",
+      "group_id": "95f7bed81da3fafd",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040301-20151226133734Ch"
+      ]
+    },
+    {
+      "file_name": "20151228024254Uh.jpeg",
+      "group_id": "95f7bed81da3fafd",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060102-20151228024254Uh"
+      ]
+    },
+    {
+      "file_name": "20160101133714Th.jpeg",
+      "group_id": "8a9c06b667b3293a",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20160101133714Th",
+        "050102-20160101133714Th",
+        "050103-20160101133714Th"
+      ]
+    },
+    {
+      "file_name": "20160103133734Ch.jpeg",
+      "group_id": "8a9c06b667b3293a",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20160103133734Ch"
+      ]
+    },
+    {
+      "file_name": "20160107133714Th.jpeg",
+      "group_id": "6dbc877a1542d353",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "060403-20160107133714Th"
+      ]
+    },
+    {
+      "file_name": "20160110133714Th.jpeg",
+      "group_id": "6dbc877a1542d353",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "060403-20160110133714Th"
+      ]
+    },
+    {
+      "file_name": "20160125154854Bh.jpeg",
+      "group_id": "78ee09de237ddaf9",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20160125154854Bh"
+      ]
+    },
+    {
+      "file_name": "20160127225034Lh.jpeg",
+      "group_id": "78ee09de237ddaf9",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030101-20160127225034Lh"
+      ]
+    },
+    {
+      "file_name": "20160129225334Lh.jpeg",
+      "group_id": "78ee09de237ddaf9",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20160129225334Lh"
+      ]
+    },
+    {
+      "file_name": "20160201025254Uh.jpeg",
+      "group_id": "78ee09de237ddaf9",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020101-20160201025254Uh"
+      ]
+    },
+    {
+      "file_name": "20160204133734Ch.jpeg",
+      "group_id": "0cf9c2e54ec55896",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010302-20160204133734Ch",
+        "010303-20160204133734Ch"
+      ]
+    },
+    {
+      "file_name": "20160213153054Bh.jpeg",
+      "group_id": "525445e6228d2e0a",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20160213153054Bh",
+        "010402-20160213153054Bh",
+        "010403-20160213153054Bh"
+      ]
+    },
+    {
+      "file_name": "20160215133734Ch.jpeg",
+      "group_id": "525445e6228d2e0a",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20160215133734Ch",
+        "010402-20160215133734Ch",
+        "010403-20160215133734Ch"
+      ]
+    },
+    {
+      "file_name": "20160215175514Mh.jpeg",
+      "group_id": "525445e6228d2e0a",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040201-20160215175514Mh"
+      ]
+    },
+    {
+      "file_name": "20160223173514Mh.jpeg",
+      "group_id": "3859b58121ec7004",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010202-20160223173514Mh",
+        "010203-20160223173514Mh"
+      ]
+    },
+    {
+      "file_name": "20160225173314Mh.jpeg",
+      "group_id": "3859b58121ec7004",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20160225173314Mh",
+        "010402-20160225173314Mh",
+        "010403-20160225173314Mh"
+      ]
+    },
+    {
+      "file_name": "20160226173214Mh.jpeg",
+      "group_id": "3859b58121ec7004",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20160226173214Mh",
+        "010102-20160226173214Mh"
+      ]
+    },
+    {
+      "file_name": "20160229151254Bh.jpeg",
+      "group_id": "3859b58121ec7004",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20160229151254Bh",
+        "010402-20160229151254Bh",
+        "010403-20160229151254Bh"
+      ]
+    },
+    {
+      "file_name": "20160302133734Ch.jpeg",
+      "group_id": "3859b58121ec7004",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040102-20160302133734Ch"
+      ]
+    },
+    {
+      "file_name": "20160309172214Mh.jpeg",
+      "group_id": "2c97928a20d0f4e7",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020101-20160309172214Mh"
+      ]
+    },
+    {
+      "file_name": "20160310133734Ch.jpeg",
+      "group_id": "2c97928a20d0f4e7",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20160310133734Ch",
+        "050102-20160310133734Ch",
+        "050103-20160310133734Ch"
+      ]
+    },
+    {
+      "file_name": "20160315133714Th.jpeg",
+      "group_id": "02f6c6721e7330d6",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010301-20160315133714Th",
+        "010302-20160315133714Th"
+      ]
+    },
+    {
+      "file_name": "20160317232434Lh.jpeg",
+      "group_id": "02f6c6721e7330d6",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20160317232434Lh"
+      ]
+    },
+    {
+      "file_name": "20160320133714Th.jpeg",
+      "group_id": "02f6c6721e7330d6",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20160320133714Th",
+        "010102-20160320133714Th",
+        "010103-20160320133714Th"
+      ]
+    },
+    {
+      "file_name": "20160326143654Bh.jpeg",
+      "group_id": "80c3b1cf302df151",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050202-20160326143654Bh"
+      ]
+    },
+    {
+      "file_name": "20160327170714Mh.jpeg",
+      "group_id": "80c3b1cf302df151",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040401-20160327170714Mh"
+      ]
+    },
+    {
+      "file_name": "20160401133734Ch.jpeg",
+      "group_id": "538b2295a3d163f8",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010301-20160401133734Ch"
+      ]
+    },
+    {
+      "file_name": "20160401170314Mh.jpeg",
+      "group_id": "538b2295a3d163f8",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20160401170314Mh",
+        "010102-20160401170314Mh",
+        "010103-20160401170314Mh"
+      ]
+    },
+    {
+      "file_name": "20160402025254Uh.jpeg",
+      "group_id": "538b2295a3d163f8",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020401-20160402025254Uh",
+        "020403-20160402025254Uh"
+      ]
+    },
+    {
+      "file_name": "20160403170114Mh.jpeg",
+      "group_id": "538b2295a3d163f8",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20160403170114Mh",
+        "010402-20160403170114Mh",
+        "010403-20160403170114Mh"
+      ]
+    },
+    {
+      "file_name": "20160408232234Lh.jpeg",
+      "group_id": "98c8ddb60034d9b2",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20160408232234Lh"
+      ]
+    },
+    {
+      "file_name": "20160411134234Ch.jpeg",
+      "group_id": "98c8ddb60034d9b2",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20160411134234Ch"
+      ]
+    },
+    {
+      "file_name": "20160430133714Th.jpeg",
+      "group_id": "33820d6d5865516e",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010402-20160430133714Th",
+        "010403-20160430133714Th"
+      ]
+    },
+    {
+      "file_name": "20160430133734Ch.jpeg",
+      "group_id": "33820d6d5865516e",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050202-20160430133734Ch"
+      ]
+    },
+    {
+      "file_name": "20160501143154Bh.jpeg",
+      "group_id": "33820d6d5865516e",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "020401-20160501143154Bh",
+        "020403-20160501143154Bh"
+      ]
+    },
+    {
+      "file_name": "20160510163914Mh.jpeg",
+      "group_id": "5d2e61c020af4fa3",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20160510163914Mh"
+      ]
+    },
+    {
+      "file_name": "20160516012454Uh.jpeg",
+      "group_id": "9e2dda1304704b3e",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20160516012454Uh"
+      ]
+    },
+    {
+      "file_name": "20160518011654Uh.jpeg",
+      "group_id": "9e2dda1304704b3e",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020101-20160518011654Uh"
+      ]
+    },
+    {
+      "file_name": "20160526011254Uh.jpeg",
+      "group_id": "8f0a0c141adca114",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010101-20160526011254Uh",
+        "010102-20160526011254Uh",
+        "010103-20160526011254Uh"
+      ]
+    },
+    {
+      "file_name": "20160530234734Lh.jpeg",
+      "group_id": "4ccc9868116bd4a9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060403-20160530234734Lh"
+      ]
+    },
+    {
+      "file_name": "20160604163414Mh.jpeg",
+      "group_id": "2a6e213fc07acce9",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040102-20160604163414Mh"
+      ]
+    },
+    {
+      "file_name": "20160606163514Mh.jpeg",
+      "group_id": "2a6e213fc07acce9",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20160606163514Mh",
+        "010102-20160606163514Mh"
+      ]
+    },
+    {
+      "file_name": "20160609133654Bh.jpeg",
+      "group_id": "2a6e213fc07acce9",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20160609133654Bh"
+      ]
+    },
+    {
+      "file_name": "20160617133654Bh.jpeg",
+      "group_id": "1c8f68656c143521",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050101-20160617133654Bh",
+        "050102-20160617133654Bh",
+        "050103-20160617133654Bh"
+      ]
+    },
+    {
+      "file_name": "20160619133714Th.jpeg",
+      "group_id": "1c8f68656c143521",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040401-20160619133714Th"
+      ]
+    },
+    {
+      "file_name": "20160627133734Ch.jpeg",
+      "group_id": "09d81468e4477eb5",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20160627133734Ch"
+      ]
+    },
+    {
+      "file_name": "20160628152654Bh.jpeg",
+      "group_id": "09d81468e4477eb5",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020401-20160628152654Bh",
+        "020403-20160628152654Bh"
+      ]
+    },
+    {
+      "file_name": "20160629133714Th.jpeg",
+      "group_id": "09d81468e4477eb5",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20160629133714Th"
+      ]
+    },
+    {
+      "file_name": "20160703133714Th.jpeg",
+      "group_id": "f8ef58849db69f67",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20160703133714Th",
+        "010102-20160703133714Th",
+        "010103-20160703133714Th"
+      ]
+    },
+    {
+      "file_name": "20160714235434Lh.jpeg",
+      "group_id": "e7a2493fdfdb26d9",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20160714235434Lh",
+        "010102-20160714235434Lh"
+      ]
+    },
+    {
+      "file_name": "20160720133734Ch.jpeg",
+      "group_id": "ac50b47902bdd49a",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050202-20160720133734Ch"
+      ]
+    },
+    {
+      "file_name": "20160724135554Bh.jpeg",
+      "group_id": "31bf559fc6ba50ae",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060102-20160724135554Bh"
+      ]
+    },
+    {
+      "file_name": "20160726135354Bh.jpeg",
+      "group_id": "31bf559fc6ba50ae",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20160726135354Bh"
+      ]
+    },
+    {
+      "file_name": "20160804133734Ch.jpeg",
+      "group_id": "f92b1509e591ab84",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "060403-20160804133734Ch"
+      ]
+    },
+    {
+      "file_name": "20160808133714Th.jpeg",
+      "group_id": "1160a659a963b726",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040201-20160808133714Th"
+      ]
+    },
+    {
+      "file_name": "20160809164914Mh.jpeg",
+      "group_id": "1160a659a963b726",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060102-20160809164914Mh"
+      ]
+    },
+    {
+      "file_name": "20160810234034Lh.jpeg",
+      "group_id": "1160a659a963b726",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20160810234034Lh",
+        "010402-20160810234034Lh",
+        "010403-20160810234034Lh"
+      ]
+    },
+    {
+      "file_name": "20160831133714Th.jpeg",
+      "group_id": "c38bfa964991500f",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030101-20160831133714Th"
+      ]
+    },
+    {
+      "file_name": "20160920230134Lh.jpeg",
+      "group_id": "ee855e039868fe33",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20160920230134Lh",
+        "010402-20160920230134Lh",
+        "010403-20160920230134Lh"
+      ]
+    },
+    {
+      "file_name": "20160925165814Mh.jpeg",
+      "group_id": "f704dd8ee327a804",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060403-20160925165814Mh"
+      ]
+    },
+    {
+      "file_name": "20160925225634Lh.jpeg",
+      "group_id": "f704dd8ee327a804",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050303-20160925225634Lh"
+      ]
+    },
+    {
+      "file_name": "20160927133734Ch.jpeg",
+      "group_id": "f704dd8ee327a804",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20160927133734Ch"
+      ]
+    },
+    {
+      "file_name": "20160928143554Bh.jpeg",
+      "group_id": "f704dd8ee327a804",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050201-20160928143554Bh",
+        "050202-20160928143554Bh"
+      ]
+    },
+    {
+      "file_name": "20161002225034Lh.jpeg",
+      "group_id": "7fa68e172c349147",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040102-20161002225034Lh"
+      ]
+    },
+    {
+      "file_name": "20161012133734Ch.jpeg",
+      "group_id": "c56e26e522dfa0ca",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040301-20161012133734Ch"
+      ]
+    },
+    {
+      "file_name": "20161013133734Ch.jpeg",
+      "group_id": "c56e26e522dfa0ca",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020101-20161013133734Ch"
+      ]
+    },
+    {
+      "file_name": "20161023133814Th.jpeg",
+      "group_id": "091022f525dc3be6",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060102-20161023133814Th"
+      ]
+    },
+    {
+      "file_name": "20161105222634Lh.jpeg",
+      "group_id": "6209c491476354da",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010203-20161105222634Lh"
+      ]
+    },
+    {
+      "file_name": "20161108021454Uh.jpeg",
+      "group_id": "6209c491476354da",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20161108021454Uh"
+      ]
+    },
+    {
+      "file_name": "20161109171714Mh.jpeg",
+      "group_id": "6209c491476354da",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020101-20161109171714Mh"
+      ]
+    },
+    {
+      "file_name": "20161110151454Bh.jpeg",
+      "group_id": "6209c491476354da",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010202-20161110151454Bh",
+        "010203-20161110151454Bh"
+      ]
+    },
+    {
+      "file_name": "20161116133714Th.jpeg",
+      "group_id": "dbe04d089c806189",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "030101-20161116133714Th"
+      ]
+    },
+    {
+      "file_name": "20161129022454Uh.jpeg",
+      "group_id": "2b2586689cdf40ae",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20161129022454Uh",
+        "010102-20161129022454Uh"
+      ]
+    },
+    {
+      "file_name": "20161201160954Bh.jpeg",
+      "group_id": "2b2586689cdf40ae",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20161201160954Bh"
+      ]
+    },
+    {
+      "file_name": "20161205133714Th.jpeg",
+      "group_id": "83190caa8c528ffd",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20161205133714Th",
+        "010402-20161205133714Th",
+        "010403-20161205133714Th"
+      ]
+    },
+    {
+      "file_name": "20161210133714Th.jpeg",
+      "group_id": "195cf4436d70db01",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030302-20161210133714Th"
+      ]
+    },
+    {
+      "file_name": "20161217133734Ch.jpeg",
+      "group_id": "1ea1186b36640ea8",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040102-20161217133734Ch"
+      ]
+    },
+    {
+      "file_name": "20161222133714Th.jpeg",
+      "group_id": "74655bbd9ebb0ce2",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20161222133714Th",
+        "010102-20161222133714Th"
+      ]
+    },
+    {
+      "file_name": "20161223133734Ch.jpeg",
+      "group_id": "74655bbd9ebb0ce2",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040102-20161223133734Ch"
+      ]
+    },
+    {
+      "file_name": "20161224024154Uh.jpeg",
+      "group_id": "74655bbd9ebb0ce2",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20161224024154Uh",
+        "010102-20161224024154Uh",
+        "010103-20161224024154Uh"
+      ]
+    },
+    {
+      "file_name": "20161229133734Ch.jpeg",
+      "group_id": "4a48c196e2c3cfec",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050202-20161229133734Ch"
+      ]
+    },
+    {
+      "file_name": "20161231133734Ch.jpeg",
+      "group_id": "4a48c196e2c3cfec",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010202-20161231133734Ch",
+        "010203-20161231133734Ch"
+      ]
+    },
+    {
+      "file_name": "20170102024454Uh.jpeg",
+      "group_id": "4a48c196e2c3cfec",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050302-20170102024454Uh"
+      ]
+    },
+    {
+      "file_name": "20170103030554Uh.jpeg",
+      "group_id": "4a48c196e2c3cfec",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010101-20170103030554Uh",
+        "010102-20170103030554Uh",
+        "010103-20170103030554Uh"
+      ]
+    },
+    {
+      "file_name": "20170106133714Th.jpeg",
+      "group_id": "2cc7c6821e800bdd",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010203-20170106133714Th"
+      ]
+    },
+    {
+      "file_name": "20170107133714Th.jpeg",
+      "group_id": "2cc7c6821e800bdd",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20170107133714Th"
+      ]
+    },
+    {
+      "file_name": "20170117175014Mh.jpeg",
+      "group_id": "e27b7e4d12bd79cb",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050101-20170117175014Mh",
+        "050102-20170117175014Mh",
+        "050103-20170117175014Mh"
+      ]
+    },
+    {
+      "file_name": "20170119031254Uh.jpeg",
+      "group_id": "e27b7e4d12bd79cb",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20170119031254Uh",
+        "010402-20170119031254Uh",
+        "010403-20170119031254Uh"
+      ]
+    },
+    {
+      "file_name": "20170122034654Uh.jpeg",
+      "group_id": "75dc41e40129873f",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040301-20170122034654Uh"
+      ]
+    },
+    {
+      "file_name": "20170125133734Ch.jpeg",
+      "group_id": "2e60d1bcb67b4198",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20170125133734Ch"
+      ]
+    },
+    {
+      "file_name": "20170217165250Bh.jpeg",
+      "group_id": "d15e8fed11e7d234",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060102-20170217165250Bh"
+      ]
+    },
+    {
+      "file_name": "20170218173710Mh.jpeg",
+      "group_id": "d15e8fed11e7d234",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20170218173710Mh",
+        "010102-20170218173710Mh"
+      ]
+    },
+    {
+      "file_name": "20170222133710Th.jpeg",
+      "group_id": "9cdd36ffa4b858db",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010202-20170222133710Th",
+        "010203-20170222133710Th"
+      ]
+    },
+    {
+      "file_name": "20170310133730Ch.jpeg",
+      "group_id": "94ab87337ab89df9",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010203-20170310133730Ch"
+      ]
+    },
+    {
+      "file_name": "20170310173450Bh.jpeg",
+      "group_id": "94ab87337ab89df9",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040401-20170310173450Bh"
+      ]
+    },
+    {
+      "file_name": "20170316133730Ch.jpeg",
+      "group_id": "4925ecc6f45fb6bd",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060102-20170316133730Ch"
+      ]
+    },
+    {
+      "file_name": "20170322015550Uh.jpeg",
+      "group_id": "eb9a812cb8e9a3a1",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050202-20170322015550Uh"
+      ]
+    },
+    {
+      "file_name": "20170323041730Lh.jpeg",
+      "group_id": "eb9a812cb8e9a3a1",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030302-20170323041730Lh"
+      ]
+    },
+    {
+      "file_name": "20170327143550Bh.jpeg",
+      "group_id": "f12dd31a6797cb08",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010202-20170327143550Bh",
+        "010203-20170327143550Bh"
+      ]
+    },
+    {
+      "file_name": "20170329133730Ch.jpeg",
+      "group_id": "f12dd31a6797cb08",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010202-20170329133730Ch",
+        "010203-20170329133730Ch"
+      ]
+    },
+    {
+      "file_name": "20170408133710Th.jpeg",
+      "group_id": "a95b0c1ba4a9f32e",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "030302-20170408133710Th"
+      ]
+    },
+    {
+      "file_name": "20170411013550Uh.jpeg",
+      "group_id": "a95b0c1ba4a9f32e",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "020101-20170411013550Uh"
+      ]
+    },
+    {
+      "file_name": "20170415145450Bh.jpeg",
+      "group_id": "37d0a7ca192da28a",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010303-20170415145450Bh"
+      ]
+    },
+    {
+      "file_name": "20170417014150Uh.jpeg",
+      "group_id": "37d0a7ca192da28a",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020401-20170417014150Uh",
+        "020403-20170417014150Uh"
+      ]
+    },
+    {
+      "file_name": "20170417232530Lh.jpeg",
+      "group_id": "37d0a7ca192da28a",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030302-20170417232530Lh"
+      ]
+    },
+    {
+      "file_name": "20170418013450Uh.jpeg",
+      "group_id": "37d0a7ca192da28a",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20170418013450Uh",
+        "010102-20170418013450Uh",
+        "010103-20170418013450Uh"
+      ]
+    },
+    {
+      "file_name": "20170423014350Uh.jpeg",
+      "group_id": "8a2a52b3cdaf1422",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030403-20170423014350Uh"
+      ]
+    },
+    {
+      "file_name": "20170425133730Ch.jpeg",
+      "group_id": "8a2a52b3cdaf1422",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020401-20170425133730Ch",
+        "020403-20170425133730Ch"
+      ]
+    },
+    {
+      "file_name": "20170427154550Bh.jpeg",
+      "group_id": "8a2a52b3cdaf1422",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20170427154550Bh"
+      ]
+    },
+    {
+      "file_name": "20170502233130Lh.jpeg",
+      "group_id": "a2cf2f78e24116f1",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010201-20170502233130Lh",
+        "010202-20170502233130Lh",
+        "010203-20170502233130Lh"
+      ]
+    },
+    {
+      "file_name": "20170503013050Uh.jpeg",
+      "group_id": "a2cf2f78e24116f1",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050302-20170503013050Uh"
+      ]
+    },
+    {
+      "file_name": "20170609133710Th.jpeg",
+      "group_id": "1d0241eae902d14c",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050101-20170609133710Th",
+        "050102-20170609133710Th",
+        "050103-20170609133710Th"
+      ]
+    },
+    {
+      "file_name": "20170612135150Bh.jpeg",
+      "group_id": "527f6d2119b17557",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040301-20170612135150Bh"
+      ]
+    },
+    {
+      "file_name": "20170619012150Uh.jpeg",
+      "group_id": "73b151d3aefc24a9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030302-20170619012150Uh"
+      ]
+    },
+    {
+      "file_name": "20170701235630Lh.jpeg",
+      "group_id": "b8e6dc96676d6e0d",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020101-20170701235630Lh"
+      ]
+    },
+    {
+      "file_name": "20170702133730Ch.jpeg",
+      "group_id": "b8e6dc96676d6e0d",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040102-20170702133730Ch"
+      ]
+    },
+    {
+      "file_name": "20170719235330Lh.jpeg",
+      "group_id": "7089c752e7201237",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010202-20170719235330Lh"
+      ]
+    },
+    {
+      "file_name": "20170722235230Lh.jpeg",
+      "group_id": "7089c752e7201237",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020101-20170722235230Lh"
+      ]
+    },
+    {
+      "file_name": "20170726235030Lh.jpeg",
+      "group_id": "a642d8c69d99aa81",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010201-20170726235030Lh",
+        "010202-20170726235030Lh",
+        "010203-20170726235030Lh"
+      ]
+    },
+    {
+      "file_name": "20170728150230Ch.jpeg",
+      "group_id": "a642d8c69d99aa81",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20170728150230Ch",
+        "050102-20170728150230Ch",
+        "050103-20170728150230Ch"
+      ]
+    },
+    {
+      "file_name": "20170801164710Mh.jpeg",
+      "group_id": "5b4cf83c7ab8795b",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020101-20170801164710Mh"
+      ]
+    },
+    {
+      "file_name": "20170804140650Bh.jpeg",
+      "group_id": "5b4cf83c7ab8795b",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20170804140650Bh",
+        "010402-20170804140650Bh",
+        "010403-20170804140650Bh"
+      ]
+    },
+    {
+      "file_name": "20170805133710Th.jpeg",
+      "group_id": "5b4cf83c7ab8795b",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040401-20170805133710Th"
+      ]
+    },
+    {
+      "file_name": "20170806133710Th.jpeg",
+      "group_id": "5b4cf83c7ab8795b",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040401-20170806133710Th"
+      ]
+    },
+    {
+      "file_name": "20170809164910Mh.jpeg",
+      "group_id": "2dba67cec8b62ed3",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060102-20170809164910Mh"
+      ]
+    },
+    {
+      "file_name": "20170827165310Mh.jpeg",
+      "group_id": "dbc64a9394844fcd",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050101-20170827165310Mh",
+        "050102-20170827165310Mh",
+        "050103-20170827165310Mh"
+      ]
+    },
+    {
+      "file_name": "20170831170750Bh.jpeg",
+      "group_id": "ee6723d25a49492b",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010302-20170831170750Bh",
+        "010303-20170831170750Bh"
+      ]
+    },
+    {
+      "file_name": "20170925225630Lh.jpeg",
+      "group_id": "7e10f7b0181a80e4",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030401-20170925225630Lh"
+      ]
+    },
+    {
+      "file_name": "20170927143450Bh.jpeg",
+      "group_id": "7e10f7b0181a80e4",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20170927143450Bh",
+        "010402-20170927143450Bh",
+        "010403-20170927143450Bh"
+      ]
+    },
+    {
+      "file_name": "20171004143950Bh.jpeg",
+      "group_id": "fa2a2bc5fbd6c767",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010202-20171004143950Bh",
+        "010203-20171004143950Bh"
+      ]
+    },
+    {
+      "file_name": "20171005133730Ch.jpeg",
+      "group_id": "fa2a2bc5fbd6c767",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030101-20171005133730Ch"
+      ]
+    },
+    {
+      "file_name": "20171005144050Bh.jpeg",
+      "group_id": "fa2a2bc5fbd6c767",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050202-20171005144050Bh"
+      ]
+    },
+    {
+      "file_name": "20171007133710Th.jpeg",
+      "group_id": "fa2a2bc5fbd6c767",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "020401-20171007133710Th"
+      ]
+    },
+    {
+      "file_name": "20171007133730Ch.jpeg",
+      "group_id": "fa2a2bc5fbd6c767",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010402-20171007133730Ch",
+        "010403-20171007133730Ch"
+      ]
+    },
+    {
+      "file_name": "20171008144250Bh.jpeg",
+      "group_id": "fa2a2bc5fbd6c767",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20171008144250Bh",
+        "010102-20171008144250Bh"
+      ]
+    },
+    {
+      "file_name": "20171011170310Mh.jpeg",
+      "group_id": "ed407eb2d670558d",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010101-20171011170310Mh",
+        "010102-20171011170310Mh",
+        "010103-20171011170310Mh"
+      ]
+    },
+    {
+      "file_name": "20171011224130Lh.jpeg",
+      "group_id": "ed407eb2d670558d",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040102-20171011224130Lh"
+      ]
+    },
+    {
+      "file_name": "20171014133730Ch.jpeg",
+      "group_id": "ed407eb2d670558d",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040201-20171014133730Ch"
+      ]
+    },
+    {
+      "file_name": "20171022170710Mh.jpeg",
+      "group_id": "dbbf11993480cd73",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020401-20171022170710Mh",
+        "020403-20171022170710Mh"
+      ]
+    },
+    {
+      "file_name": "20171025133730Ch.jpeg",
+      "group_id": "dbbf11993480cd73",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030302-20171025133730Ch"
+      ]
+    },
+    {
+      "file_name": "20171025223130Lh.jpeg",
+      "group_id": "dbbf11993480cd73",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020401-20171025223130Lh",
+        "020403-20171025223130Lh"
+      ]
+    },
+    {
+      "file_name": "20171027223030Lh.jpeg",
+      "group_id": "dbbf11993480cd73",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20171027223030Lh",
+        "010102-20171027223030Lh"
+      ]
+    },
+    {
+      "file_name": "20171029150150Bh.jpeg",
+      "group_id": "dbbf11993480cd73",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20171029150150Bh",
+        "010402-20171029150150Bh",
+        "010403-20171029150150Bh"
+      ]
+    },
+    {
+      "file_name": "20171101133730Ch.jpeg",
+      "group_id": "dbbf11993480cd73",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20171101133730Ch",
+        "010102-20171101133730Ch",
+        "010103-20171101133730Ch"
+      ]
+    },
+    {
+      "file_name": "20171103222630Lh.jpeg",
+      "group_id": "dbbf11993480cd73",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010201-20171103222630Lh",
+        "010202-20171103222630Lh"
+      ]
+    },
+    {
+      "file_name": "20171106171510Mh.jpeg",
+      "group_id": "dbbf11993480cd73",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020401-20171106171510Mh",
+        "020403-20171106171510Mh"
+      ]
+    },
+    {
+      "file_name": "20171109023950Uh.jpeg",
+      "group_id": "dbbf11993480cd73",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040102-20171109023950Uh"
+      ]
+    },
+    {
+      "file_name": "20171114133730Ch.jpeg",
+      "group_id": "bbfacacc65855468",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040201-20171114133730Ch"
+      ]
+    },
+    {
+      "file_name": "20171115170950Bh.jpeg",
+      "group_id": "bbfacacc65855468",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20171115170950Bh",
+        "050103-20171115170950Bh"
+      ]
+    },
+    {
+      "file_name": "20171115222230Lh.jpeg",
+      "group_id": "bbfacacc65855468",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20171115222230Lh",
+        "040402-20171115222230Lh"
+      ]
+    },
+    {
+      "file_name": "20171121222130Lh.jpeg",
+      "group_id": "7fc1bbceb0a88571",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20171121222130Lh"
+      ]
+    },
+    {
+      "file_name": "20171123133730Ch.jpeg",
+      "group_id": "7fc1bbceb0a88571",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20171123133730Ch"
+      ]
+    },
+    {
+      "file_name": "20171123222130Lh.jpeg",
+      "group_id": "7fc1bbceb0a88571",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20171123222130Lh",
+        "050102-20171123222130Lh",
+        "050103-20171123222130Lh"
+      ]
+    },
+    {
+      "file_name": "20180109223930Lh.jpeg",
+      "group_id": "96a7844e2d82cbba",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040301-20180109223930Lh"
+      ]
+    },
+    {
+      "file_name": "20180112130330Ch.jpeg",
+      "group_id": "96a7844e2d82cbba",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010202-20180112130330Ch",
+        "010203-20180112130330Ch"
+      ]
+    },
+    {
+      "file_name": "20180202130330Ch.jpeg",
+      "group_id": "d546c467bbf82e48",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "050101-20180202130330Ch",
+        "050102-20180202130330Ch",
+        "050103-20180202130330Ch"
+      ]
+    },
+    {
+      "file_name": "20180301050430Lh.jpeg",
+      "group_id": "69d5d3e822b36c64",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060403-20180301050430Lh"
+      ]
+    },
+    {
+      "file_name": "20180306081810Th.jpeg",
+      "group_id": "62473171e84b46fc",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20180306081810Th",
+        "010402-20180306081810Th",
+        "010403-20180306081810Th"
+      ]
+    },
+    {
+      "file_name": "20180309000910Mh.jpeg",
+      "group_id": "62473171e84b46fc",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20180309000910Mh",
+        "010103-20180309000910Mh"
+      ]
+    },
+    {
+      "file_name": "20180318020350Uh.jpeg",
+      "group_id": "72d677b051a35525",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010101-20180318020350Uh",
+        "010102-20180318020350Uh",
+        "010103-20180318020350Uh"
+      ]
+    },
+    {
+      "file_name": "20180318232230Lh.jpeg",
+      "group_id": "72d677b051a35525",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "020401-20180318232230Lh",
+        "020403-20180318232230Lh"
+      ]
+    },
+    {
+      "file_name": "20180506140230Ch.jpeg",
+      "group_id": "e10eb79004aab357",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030403-20180506140230Ch"
+      ]
+    },
+    {
+      "file_name": "20180710031950Uh.jpeg",
+      "group_id": "6832cc7d1d6304ef",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040102-20180710031950Uh"
+      ]
+    },
+    {
+      "file_name": "20180712123630Ch.jpeg",
+      "group_id": "6832cc7d1d6304ef",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20180712123630Ch"
+      ]
+    },
+    {
+      "file_name": "20180714000010Mh.jpeg",
+      "group_id": "6832cc7d1d6304ef",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20180714000010Mh"
+      ]
+    },
+    {
+      "file_name": "20180801232450Bh.jpeg",
+      "group_id": "8e88097832db14c9",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050103-20180801232450Bh"
+      ]
+    },
+    {
+      "file_name": "20180804234530Lh.jpeg",
+      "group_id": "85e2575badd5aff9",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010201-20180804234530Lh",
+        "010202-20180804234530Lh",
+        "010203-20180804234530Lh"
+      ]
+    },
+    {
+      "file_name": "20180805232510Mh.jpeg",
+      "group_id": "85e2575badd5aff9",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010301-20180805232510Mh",
+        "010302-20180805232510Mh"
+      ]
+    },
+    {
+      "file_name": "20180825205030Ch.jpeg",
+      "group_id": "3026ef6f7ce8cdcd",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010101-20180825205030Ch",
+        "010102-20180825205030Ch",
+        "010103-20180825205030Ch"
+      ]
+    },
+    {
+      "file_name": "20180827232530Lh.jpeg",
+      "group_id": "3026ef6f7ce8cdcd",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "060102-20180827232530Lh"
+      ]
+    },
+    {
+      "file_name": "20180923112330Ch.jpeg",
+      "group_id": "f0bd39002ab41790",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060403-20180923112330Ch"
+      ]
+    },
+    {
+      "file_name": "20180924112030Ch.jpeg",
+      "group_id": "f0bd39002ab41790",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060102-20180924112030Ch"
+      ]
+    },
+    {
+      "file_name": "20180925000030Lh.jpeg",
+      "group_id": "f0bd39002ab41790",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020101-20180925000030Lh"
+      ]
+    },
+    {
+      "file_name": "20180926014350Uh.jpeg",
+      "group_id": "f0bd39002ab41790",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010302-20180926014350Uh",
+        "010303-20180926014350Uh"
+      ]
+    },
+    {
+      "file_name": "20181014105830Ch.jpeg",
+      "group_id": "6a1d6e0228c502b7",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060403-20181014105830Ch"
+      ]
+    },
+    {
+      "file_name": "20181023232430Lh.jpeg",
+      "group_id": "849565755d6ffec3",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20181023232430Lh"
+      ]
+    },
+    {
+      "file_name": "20181024232430Lh.jpeg",
+      "group_id": "849565755d6ffec3",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010301-20181024232430Lh"
+      ]
+    },
+    {
+      "file_name": "20181101230010Mh.jpeg",
+      "group_id": "ecca1f710fe17920",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20181101230010Mh",
+        "050103-20181101230010Mh"
+      ]
+    },
+    {
+      "file_name": "20181102104630Ch.jpeg",
+      "group_id": "ecca1f710fe17920",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050302-20181102104630Ch"
+      ]
+    },
+    {
+      "file_name": "20190317145150Bh.jpeg",
+      "group_id": "a34fd3fca0de447f",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "050302-20190317145150Bh"
+      ]
+    },
+    {
+      "file_name": "20190322144450Bh.jpeg",
+      "group_id": "3bb9d233c6eca6d5",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060102-20190322144450Bh"
+      ]
+    },
+    {
+      "file_name": "20190412025430Lh.jpeg",
+      "group_id": "a37849eb11b6eb7d",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010401-20190412025430Lh",
+        "010402-20190412025430Lh",
+        "010403-20190412025430Lh"
+      ]
+    },
+    {
+      "file_name": "20190602025430Lh.jpeg",
+      "group_id": "c62343518f071853",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20190602025430Lh",
+        "010102-20190602025430Lh"
+      ]
+    },
+    {
+      "file_name": "20190609123330Ch.jpeg",
+      "group_id": "012a84b4d2cc0b53",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010301-20190609123330Ch",
+        "010302-20190609123330Ch"
+      ]
+    },
+    {
+      "file_name": "20190611032810Mh.jpeg",
+      "group_id": "012a84b4d2cc0b53",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010201-20190611032810Mh",
+        "010202-20190611032810Mh",
+        "010203-20190611032810Mh"
+      ]
+    },
+    {
+      "file_name": "20190626025430Lh.jpeg",
+      "group_id": "26e6417079bc7dfc",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20190626025430Lh",
+        "010102-20190626025430Lh",
+        "010103-20190626025430Lh"
+      ]
+    },
+    {
+      "file_name": "20190629163710Mh.jpeg",
+      "group_id": "ef7ffd4b61e6639f",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030302-20190629163710Mh"
+      ]
+    },
+    {
+      "file_name": "20190701123830Ch.jpeg",
+      "group_id": "ef7ffd4b61e6639f",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040301-20190701123830Ch",
+        "040302-20190701123830Ch"
+      ]
+    },
+    {
+      "file_name": "20190704123830Ch.jpeg",
+      "group_id": "ef7ffd4b61e6639f",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040201-20190704123830Ch"
+      ]
+    },
+    {
+      "file_name": "20190805054730Lh.jpeg",
+      "group_id": "eb205513a049d731",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040402-20190805054730Lh"
+      ]
+    },
+    {
+      "file_name": "20190925165810Mh.jpeg",
+      "group_id": "811711bc94867481",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "030101-20190925165810Mh"
+      ]
+    },
+    {
+      "file_name": "20190926165810Mh.jpeg",
+      "group_id": "811711bc94867481",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050302-20190926165810Mh",
+        "050303-20190926165810Mh"
+      ]
+    },
+    {
+      "file_name": "20190927165910Mh.jpeg",
+      "group_id": "811711bc94867481",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020101-20190927165910Mh"
+      ]
+    },
+    {
+      "file_name": "20200105073250Uh.jpeg",
+      "group_id": "8cc87ba0c38d7b43",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020101-20200105073250Uh"
+      ]
+    },
+    {
+      "file_name": "20200110073230Lh.jpeg",
+      "group_id": "5d2fb907e03b0444",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010101-20200110073230Lh",
+        "010102-20200110073230Lh",
+        "010103-20200110073230Lh"
+      ]
+    },
+    {
+      "file_name": "20200114073230Lh.jpeg",
+      "group_id": "97059461855c250a",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020401-20200114073230Lh",
+        "020403-20200114073230Lh"
+      ]
+    },
+    {
+      "file_name": "20200116073250Uh.jpeg",
+      "group_id": "97059461855c250a",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20200116073250Uh"
+      ]
+    },
+    {
+      "file_name": "20200619123010Th.jpeg",
+      "group_id": "4c215705771274a9",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020101-20200619123010Th"
+      ]
+    },
+    {
+      "file_name": "20200806053830Lh.jpeg",
+      "group_id": "53319dc93bd23cb2",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040102-20200806053830Lh"
+      ]
+    },
+    {
+      "file_name": "20201022223330Lh.jpeg",
+      "group_id": "9e6a8a281ed6c85b",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "020101-20201022223330Lh"
+      ]
+    },
+    {
+      "file_name": "20201227202710Mh.jpeg",
+      "group_id": "7706d302629a1ec9",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20201227202710Mh",
+        "010402-20201227202710Mh",
+        "010403-20201227202710Mh"
+      ]
+    },
+    {
+      "file_name": "20201228202430Ch.jpeg",
+      "group_id": "7706d302629a1ec9",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060102-20201228202430Ch"
+      ]
+    },
+    {
+      "file_name": "20210103223630Lh.jpeg",
+      "group_id": "2cc8543f08434505",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20210103223630Lh"
+      ]
+    },
+    {
+      "file_name": "20210201020330Lh.jpeg",
+      "group_id": "b3ac96688a56f0a0",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010201-20210201020330Lh",
+        "010202-20210201020330Lh",
+        "010203-20210201020330Lh"
+      ]
+    },
+    {
+      "file_name": "20210222222850Bh.jpeg",
+      "group_id": "a10c704cfd46c96e",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010101-20210222222850Bh",
+        "010103-20210222222850Bh"
+      ]
+    },
+    {
+      "file_name": "20210223222830Ch.jpeg",
+      "group_id": "a10c704cfd46c96e",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010401-20210223222830Ch",
+        "010402-20210223222830Ch",
+        "010403-20210223222830Ch"
+      ]
+    },
+    {
+      "file_name": "20210329015250Uh.jpeg",
+      "group_id": "8ca2eafa774fc46a",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040302-20210329015250Uh"
+      ]
+    },
+    {
+      "file_name": "20210329114430Ch.jpeg",
+      "group_id": "8ca2eafa774fc46a",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "060102-20210329114430Ch"
+      ]
+    },
+    {
+      "file_name": "20210331231510Mh.jpeg",
+      "group_id": "8ca2eafa774fc46a",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "040301-20210331231510Mh",
+        "040302-20210331231510Mh"
+      ]
+    },
+    {
+      "file_name": "20210616142650Bh.jpeg",
+      "group_id": "81cc4be8658cce7f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20210616142650Bh",
+        "040402-20210616142650Bh"
+      ]
+    },
+    {
+      "file_name": "20210620163530Mh.jpeg",
+      "group_id": "40abbffa81f16785",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040201-20210620163530Mh"
+      ]
+    },
+    {
+      "file_name": "20210621133650Bh.jpeg",
+      "group_id": "40abbffa81f16785",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010203-20210621133650Bh"
+      ]
+    },
+    {
+      "file_name": "20210624133950Bh.jpeg",
+      "group_id": "d7b3ac5e6c895d76",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010302-20210624133950Bh",
+        "010303-20210624133950Bh"
+      ]
+    },
+    {
+      "file_name": "20210626060050Uh.jpeg",
+      "group_id": "d7b3ac5e6c895d76",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010403-20210626060050Uh"
+      ]
+    },
+    {
+      "file_name": "20210626133950Bh.jpeg",
+      "group_id": "d7b3ac5e6c895d76",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040301-20210626133950Bh",
+        "040303-20210626133950Bh"
+      ]
+    },
+    {
+      "file_name": "20210721123430Ch.jpeg",
+      "group_id": "69d91fd9e13da0ff",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "060102-20210721123430Ch"
+      ]
+    },
+    {
+      "file_name": "20210728164530Mh.jpeg",
+      "group_id": "bcdf2f6f73b256b2",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040201-20210728164530Mh"
+      ]
+    },
+    {
+      "file_name": "20210731074710Th.jpeg",
+      "group_id": "bcdf2f6f73b256b2",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "040102-20210731074710Th"
+      ]
+    },
+    {
+      "file_name": "20210810121630Ch.jpeg",
+      "group_id": "380c09039419000f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030403-20210810121630Ch"
+      ]
+    },
+    {
+      "file_name": "20210812044930Lh.jpeg",
+      "group_id": "380c09039419000f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "020101-20210812044930Lh"
+      ]
+    },
+    {
+      "file_name": "20210814044930Lh.jpeg",
+      "group_id": "380c09039419000f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040201-20210814044930Lh"
+      ]
+    },
+    {
+      "file_name": "20210815140550Bh.jpeg",
+      "group_id": "380c09039419000f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "030101-20210815140550Bh"
+      ]
+    },
+    {
+      "file_name": "20210817165030Mh.jpeg",
+      "group_id": "380c09039419000f",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010401-20210817165030Mh",
+        "010402-20210817165030Mh",
+        "010403-20210817165030Mh"
+      ]
+    },
+    {
+      "file_name": "20211016145050Bh.jpeg",
+      "group_id": "ad29e9cd24b461b5",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010101-20211016145050Bh"
+      ]
+    },
+    {
+      "file_name": "20211119103130Ch.jpeg",
+      "group_id": "e66007e9c618e7d7",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040401-20211119103130Ch"
+      ]
+    },
+    {
+      "file_name": "20211222120130Ch.jpeg",
+      "group_id": "b279756b12608c7c",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "060403-20211222120130Ch"
+      ]
+    },
+    {
+      "file_name": "20211225025850Uh.jpeg",
+      "group_id": "b279756b12608c7c",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010201-20211225025850Uh",
+        "010202-20211225025850Uh",
+        "010203-20211225025850Uh"
+      ]
+    },
+    {
+      "file_name": "20211229120130Ch.jpeg",
+      "group_id": "d67e43bf61b23457",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20211229120130Ch"
+      ]
+    },
+    {
+      "file_name": "20211229120210Th.jpeg",
+      "group_id": "d67e43bf61b23457",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "010203-20211229120210Th"
+      ]
+    },
+    {
+      "file_name": "20211231223430Lh.jpeg",
+      "group_id": "d67e43bf61b23457",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "030401-20211231223430Lh",
+        "030403-20211231223430Lh"
+      ]
+    },
+    {
+      "file_name": "20220104043050Uh.jpeg",
+      "group_id": "752c5a709481950d",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040302-20220104043050Uh"
+      ]
+    },
+    {
+      "file_name": "20220122085210Th.jpeg",
+      "group_id": "adc1dab63ac2f397",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "020401-20220122085210Th",
+        "020403-20220122085210Th"
+      ]
+    },
+    {
+      "file_name": "20220328143550Bh.jpeg",
+      "group_id": "c7522fda5ad2a53f",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "050101-20220328143550Bh",
+        "050102-20220328143550Bh",
+        "050103-20220328143550Bh"
+      ]
+    },
+    {
+      "file_name": "20220418020950Uh.jpeg",
+      "group_id": "fa3ccd9c7ae229bd",
+      "partition": "holdout",
+      "fold": null,
+      "annotator_image_ids": [
+        "010402-20220418020950Uh"
+      ]
+    },
+    {
+      "file_name": "20220617185352Mh.jpeg",
+      "group_id": "ff2f1f8cf66e987b",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010202-20220617185352Mh"
+      ]
+    },
+    {
+      "file_name": "20220618185332Bh.jpeg",
+      "group_id": "ff2f1f8cf66e987b",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "040401-20220618185332Bh"
+      ]
+    },
+    {
+      "file_name": "20220622205632Bh.jpeg",
+      "group_id": "e9d9b5c122403ab4",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "050101-20220622205632Bh",
+        "050102-20220622205632Bh",
+        "050103-20220622205632Bh"
+      ]
+    },
+    {
+      "file_name": "20220710085152Th.jpeg",
+      "group_id": "86e0a08b88f9a5e4",
+      "partition": "development",
+      "fold": 1,
+      "annotator_image_ids": [
+        "010203-20220710085152Th"
+      ]
+    },
+    {
+      "file_name": "20220718185352Mh.jpeg",
+      "group_id": "fe3c220457792386",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "020101-20220718185352Mh"
+      ]
+    },
+    {
+      "file_name": "20220721185332Bh.jpeg",
+      "group_id": "fe3c220457792386",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "010401-20220721185332Bh",
+        "010402-20220721185332Bh",
+        "010403-20220721185332Bh"
+      ]
+    },
+    {
+      "file_name": "20220724185352Mh.jpeg",
+      "group_id": "02a333dc08c97c4a",
+      "partition": "development",
+      "fold": 0,
+      "annotator_image_ids": [
+        "060102-20220724185352Mh"
+      ]
+    },
+    {
+      "file_name": "20220803074752Th.jpeg",
+      "group_id": "5aaf7dcfb8f932cd",
+      "partition": "development",
+      "fold": 2,
+      "annotator_image_ids": [
+        "040102-20220803074752Th"
+      ]
+    }
+  ],
+  "registered_audit_sha256": "490b4e1779cccb387a3cd32ad0cdd04c10a1b50420e968a71461bd3b16588967",
+  "reviewed_duplicate_groups": [],
+  "assignments_preserved_from_provisional": true,
+  "verified_date_kst": "2026-10-09",
+  "provisional_sha256": "dc06c2266db709b02b26187fe175bec43e2ee1238d1dded34df3f2f46c542c83",
+  "registered_audit_path": "reports/registered_duplicate_audit_v02.json",
+  "registered_review_path": "reports/registered_duplicate_review_v02.json",
+  "registered_review_sha256": "886e7b5c059a359eeb971dd932715817971855f10ff2bc6003c066f89af0335c",
+  "limitations": [
+    "Not exhaustive across all possible transformations or observation pairs.",
+    "Canonical NCC uses inner72percent disk radius; limb-only similarity can be missed.",
+    "Only the three highest overall pairs and five highest cross-partition pairs were visually reviewed.",
+    "Solar structures can persist beyond72hours; report7/14day temporal grouping sensitivity and station slices, not absolute temporal independence."
+  ]
+}

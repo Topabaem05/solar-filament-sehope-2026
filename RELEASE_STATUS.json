@@ -1,0 +1,12 @@
+{
+  "scope": "allowlisted code, original vendor notices and trained decoder; no competition raw images or masks",
+  "checkpoint_sha256": "f99eb52031e3f8dc1011b64196b55b5887b9c85070e81695aee98553139fb6d4",
+  "code_exact_to_checkpoint": true,
+  "source_bundle_sha256": "d84eb96aa6d1713313ebf884bfc6a8735da648f92145957cfd7316cb864d2ad7",
+  "backbone_download_manifest": "vendor/sehope_snapshot/weights_manifest.json",
+  "training_originals": 8,
+  "updates": 1024,
+  "full_development_validation": "running",
+  "test_prediction": "not_generated",
+  "public_repository": "not_created"
+}

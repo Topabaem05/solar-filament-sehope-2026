@@ -1,0 +1,11 @@
+{
+  "model": "visionhope_tiny",
+  "file": "visionhope_tiny.pth",
+  "repo_id": "PSRben/VisionHOPE",
+  "revision": "87a21663cd7c699f2fb5ade0b11f5e1c022ddcd2",
+  "url": "https://huggingface.co/PSRben/VisionHOPE/resolve/87a21663cd7c699f2fb5ade0b11f5e1c022ddcd2/visionhope_tiny.pth",
+  "sha256": "ada1efa033bac3652ec956674e1337e19f4f3897b6284f25834d43fe850b0c39",
+  "size_bytes": 106930554,
+  "upstream_commit": "98cfb5d6004472a0ba3d212d3cf884393e39c134",
+  "parameters": 26637192
+}

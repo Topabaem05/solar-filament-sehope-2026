@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+weights/visionhope_tiny.pth
+outputs/
+.ipynb_checkpoints/

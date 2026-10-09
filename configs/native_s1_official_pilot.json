@@ -1,0 +1,39 @@
+{
+  "mode": "free_gpu_pilot",
+  "seed": 42,
+  "fold": 0,
+  "count_train": 8,
+  "count_val": 2,
+  "expected_shape": [
+    2048,
+    2048
+  ],
+  "annotation_sha256": "5da9e92b5a1a1947fd5d57adb6688269625c48ec1ef884daf2a01618c9ed54a1",
+  "split_sha256": "47b60155d4005b5839d062096d7afebab06d3f1cf24b9880a3fc7f8c65250bdf",
+  "tile_size": 512,
+  "stride": 384,
+  "decoder": {
+    "width": 128,
+    "queries": 64,
+    "layers": 3
+  },
+  "steps": 1024,
+  "grad_accumulation": 4,
+  "original_block_updates": 16,
+  "learning_rate": 0.0003,
+  "balanced_mask_bce": true,
+  "max_seconds": 3000,
+  "train_seconds": 1600,
+  "evaluation_reserve_seconds": 1200,
+  "thresholds": {
+    "object_threshold": 0.5,
+    "score_threshold": 0.5,
+    "mask_threshold": 0.5,
+    "nms_iou": 0.8,
+    "overlap_iou": 0.5,
+    "min_shared_pixels": 4
+  },
+  "backbone_backend": "official_cuda_v1",
+  "numerical_admission_contract": "official_same_backend_runtime_v1",
+  "cross_backend_equivalence_claimed": false
+}
