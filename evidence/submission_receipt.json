@@ -1,0 +1,20 @@
+{
+  "verified_at_utc": "2026-10-09T03:42:42.422808+00:00",
+  "competition": "filament-segmentation-2026",
+  "submission_id": "56988830",
+  "server_status": "COMPLETE",
+  "public_score": "0.01",
+  "csv_sha256": "582b30aaa91422c77548523076aa4291d99be13e14c5d136ae76d4969e506138",
+  "csv_bytes": 1016484,
+  "original_images": 180,
+  "prediction_instances": 2508,
+  "no_overlapping_instance_pixels": true,
+  "fresh_cpu_export_byte_exact": true,
+  "selected_for_final_score": true,
+  "selected_count": 1,
+  "selection_limit": 2,
+  "original_rejected_submission_id": "56987838",
+  "report_pdf_exported": false,
+  "organizer_form_submitted": false,
+  "all_competition_procedures_complete": false
+}

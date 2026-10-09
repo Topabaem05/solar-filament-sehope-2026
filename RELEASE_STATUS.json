@@ -19,7 +19,7 @@
   "final_notebook_url": "https://www.kaggle.com/code/topabaem/filament-v02-submission-final-001",
   "final_notebook_status": "completed_verified",
   "competition_submission_id": "56988830",
-  "competition_submission_status": "PENDING",
+  "competition_submission_status": "COMPLETE",
   "mandatory_export": "confidence_order_first_owner_v1",
   "export_notebook_url": "https://www.kaggle.com/code/topabaem/filament-v02-disjoint-export-001",
   "export_replay_status": "v2_completed_byte_exact",
@@ -29,5 +29,9 @@
   "disjoint_holdout_pq": 0.028001868795142368,
   "final_csv_sha256": "582b30aaa91422c77548523076aa4291d99be13e14c5d136ae76d4969e506138",
   "final_csv_instances": 2508,
-  "first_rejected_submission_id": "56987838"
+  "first_rejected_submission_id": "56987838",
+  "public_score": "0.01",
+  "selected_for_final_score": true,
+  "organizer_form_submitted": false,
+  "report_pdf_exported": false
 }
