@@ -41,7 +41,7 @@ The portable CPU implementation and official CUDA kernels did **not** satisfy a 
 - `scripts/run_submission_stage.py`: independent replay followed by registered full-development or holdout/test inference.
 - `evidence/`: actual training and evaluation reports. Planned improvements are not measured results.
 
-Download competition images through your own authorized Kaggle access. Original images and annotation masks are not redistributed by this repository. The runnable notebook and final inference plan will be added after the candidate's full-development validation; this local draft is not yet a final reproduction release.
+Download competition images through your own authorized Kaggle access. Original images and annotation masks are not redistributed by this repository. `reproduce_development.ipynb` is the complete development replay/evaluation notebook, including isolated setup and the frozen source bundle. The final holdout/test notebook will follow after full-development validation. This candidate release is not yet a completed competition submission.
 
 ## Known limitations and further work
 
