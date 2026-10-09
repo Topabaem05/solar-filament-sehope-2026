@@ -8,5 +8,9 @@
   "updates": 1024,
   "full_development_validation": "running",
   "test_prediction": "not_generated",
-  "public_repository": "not_created"
+  "public_repository": "https://github.com/Topabaem05/solar-filament-sehope-2026",
+  "development_notebook": "https://www.kaggle.com/code/topabaem/filament-v02-submission-dev-002",
+  "development_notebook_status": "submitted_to_Kaggle_execution_pending",
+  "competition_csv_submitted": false,
+  "latest_verified_tests": 92
 }

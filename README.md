@@ -29,6 +29,10 @@ The submitted path uses `official_cuda_v1`, Python 3.11, PyTorch 2.6.0+cu124, CU
 
 The portable CPU implementation and official CUDA kernels did **not** satisfy a previously proposed elementwise `rtol=0.001, atol=0.0001` contract at every element. We do not claim cross-backend equivalence. Source, weight, runtime and implementation hashes are checked, and the checkpoint loader rejects a different backend. Use the official pinned CUDA environment to reproduce this entry.
 
+## Execution status
+
+The [public development notebook](https://www.kaggle.com/code/topabaem/filament-v02-submission-dev-002) is associated with the competition. Its source has been checked against the local notebook cell by cell. Execution and full-development results are still pending; public availability is not an execution-success claim.
+
 ## Reproduction files
 
 - `src/filament/`: immutable model, training, full-image inference, RLE and evaluator sources used by the checkpoint.
@@ -44,6 +48,8 @@ The portable CPU implementation and official CUDA kernels did **not** satisfy a 
 Download competition images through your own authorized Kaggle access. Original images and annotation masks are not redistributed by this repository. `reproduce_development.ipynb` is the complete development replay/evaluation notebook, including isolated setup and the frozen source bundle. The final holdout/test notebook will follow after full-development validation. This candidate release is not yet a completed competition submission.
 
 ## Known limitations and further work
+
+The decoder has 1,549,825 parameters. The selected pilot processed its two validation originals in 11.009 seconds on one T4 (environment setup and CUDA compilation excluded), with peak allocated CUDA memory of 546,332,160 bytes during the run. These are small-sample timings.
 
 False positives, fragmentation and overlapping predictions remain material. The public reference evaluator can count multiple IoU-positive pairs, so we also report strict one-to-one PQ. The 1,024-update training score is 0.186436 under the public arithmetic and 0.124765 under strict matching; the two-image validation score is 0.137201 under both. These metrics must not be conflated.
 
